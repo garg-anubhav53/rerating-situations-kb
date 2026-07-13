@@ -74,26 +74,49 @@ This is the **one legitimate barrier** (needs all scout lists at once). Dispatch
 
 ---
 
-## 4. STEP 4 — WRITE (depth scales with magnitude; independent fan-out)
+## 4. STEP 4 — WRITE (early comprehensive push, THEN capped enrichment waves)
 
-Write-ups go into **`years/<TARGET_YEAR>.md`** (one file per year; append sections). Depth rules — this
-is the core of the product:
+**#1 ROBUSTNESS RULE — persist the roster BEFORE the expensive prose, and push after every wave.** A
+run has a *bounded work budget*, not a wall-clock timeout. The old "do all writes, push once at the end"
+shape burns the whole budget on opus prose and gets cut off before the single push → the run commits
+NOTHING. Never again: push cheap-and-early, then enrich incrementally so a killed run always leaves
+progress behind.
 
-| Tier | Writer model | Depth |
-|---|---|---|
-| **2–3x** | `claude-haiku-4-5-20251001` | **A couple of sentences**: what changed (business or multiple), one line. |
-| **3–5x** | `claude-sonnet-4-6` | **One–two tight paragraphs**: what changed + what the market had misjudged. |
-| **5–10x** | `claude-opus-4-8` | **Full write-up** (see template). |
-| **10x+** | `claude-opus-4-8` | **Full write-up — go long**, especially if `SURPRISING`. This is the point of the KB. |
+### 4a. ROSTER + EARLY PUSH (haiku) — do this FIRST, before any opus/sonnet prose
+One haiku agent (`claude-haiku-4-5-20251001`) writes the full capture at minimal depth, then you **PUSH
+IMMEDIATELY (§6)**:
+- Append EVERY deduped ≥2x name to **`kb/INDEX.md`** (one row each — this IS the comprehensive capture).
+- Create/append **`years/<TARGET_YEAR>.md`** with a **roster table** at the top:
+  `ticker | exch | multiple | tier | surprising? | start mkt-cap | one-line what-changed | prose?`
+  — set **`prose?` = N** for every row.
+- Append `TICKER|YEAR` keys to **`kb/SEEN.md`**. Write **`runs/<UTC>.md`** (started; scout coverage; tier counts).
+- Update **`STATE.md`** counters / `LAST_RUN_*`.
+- **PUSH NOW.** The full ≥2x roster is now safe even if everything after this dies.
 
-**§2 doctrine — heavy writers get NO schema.** The opus/sonnet deep writers WRITE PROSE and return it
-as their final message (or append to the year file); do **not** attach an output schema to them. Cap
-deep writers at ≤8–10 searches, short writers at ≤3, then stop-and-write-with-gaps.
+### 4b. ENRICHMENT WAVES (depth by tier; PUSH after each wave of ~4)
+Now enrich with prose, **highest-value first**, appending a prose section under the roster in
+`years/<TARGET_YEAR>.md` and flipping that row's `prose?` to **Y**.
 
-**Prefer independent flow, not a big barrier:** fan writers out in **sized waves** (concurrency caps
-near cores−2, so ~6–10 at a time). Do the **biggest / most surprising names first** (10x+ and 5–10x
-SURPRISING), so if you run out of budget the highest-value stories are already captured. Drop
-null/slow results (`.filter(Boolean)`) and move on — never block on a straggler.
+**COMMIT IN WAVES AFTER ANY INTERESTING FINDING — do not batch.** The moment an interesting write-up
+lands, persist it:
+- **Every opus-tier finding (10x+, 5–10x, surprising) → its OWN immediate commit + push (§6)** as soon
+  as that single write-up is appended. Never hold a big/surprising story in memory waiting for others.
+- Lighter tiers (3–5x, 2–3x) → push after each small wave of ~4.
+So a run that dies is never more than one write-up away from being fully saved, and the repo shows
+progress continuously.
+
+Order + HARD per-run caps (hit a cap → stop, leave the rest `prose?=N` for a later run):
+
+| Order | Tier | Writer model | Depth | Cap / run |
+|---|---|---|---|---|
+| 1 | **10x+**, and **SURPRISING 5–10x** | `claude-opus-4-8` | **Full write-up — go long.** This is the point of the KB. | ≤ 8 |
+| 2 | other **5–10x** | `claude-opus-4-8` | Full write-up (see template). | ≤ 6 |
+| 3 | **3–5x** | `claude-sonnet-4-6` | 1–2 tight paragraphs. | ≤ 8 |
+| 4 | **2–3x** | `claude-haiku-4-5-20251001` | A couple of sentences (only if budget remains — the roster one-liner already captures it). | best-effort |
+
+**§2 doctrine — heavy writers get NO schema.** They WRITE PROSE (append to the year file) and return a
+one-line done/failed status. Cap deep writers ≤8–10 searches, short writers ≤3, then stop-and-write.
+Fan out ~4–6 concurrent; drop null/slow results (`.filter(Boolean)`); never block on a straggler.
 
 ### Deep write-up template (5x+ / surprising)
 For each: **Headline** (ticker, exch, start→end, multiple, starting mkt-cap). Then tell the story well:
@@ -110,28 +133,37 @@ sentences. Comprehensiveness lives in the index; depth is reserved for the big/s
 
 ---
 
-## 5. STEP 5 — INDEX + STATE (haiku)
+## 5. STEP 5 — FINALIZE CURSOR (haiku)
 
-Dispatch one haiku agent to:
-- Append every captured name to **`kb/INDEX.md`** (row: `year | ticker | exch | multiple | start
-  mkt-cap | surprising? | one-line | link to years/<YEAR>.md#anchor`).
-- Append `TICKER|YEAR` keys to **`kb/SEEN.md`**.
-- Write **`runs/<UTC>.md`** run log: TARGET_YEAR, #names by tier, scouts dispatched, coverage gaps.
-- Update **`STATE.md`**: bump `COMPANIES_CAPTURED`, set `LAST_RUN_UTC` / `LAST_RUN_SUMMARY`. **Advance
-  the cursor**: if the year is fully covered, append `TARGET_YEAR` to `YEARS_DONE` and set
-  `NEXT_YEAR = TARGET_YEAR − 1` (DIRECTION=backward), clear `PARTIAL`. If the year hit search budget and
-  more ≥2x names remain unwritten, leave `NEXT_YEAR` and set `PARTIAL: TARGET_YEAR` so the next run
-  resumes it (scouts skip SEEN names) before advancing.
+The INDEX / SEEN / `runs/` writes already happened in §4a. This step only advances the cursor. One haiku
+agent updates **`STATE.md`** and pushes (§6):
+- Bump `COMPANIES_CAPTURED`; refresh `LAST_RUN_UTC` / `LAST_RUN_SUMMARY`.
+- **Advance ONLY if the year is fully done** = roster complete AND every *notable* row (tier ≥ 3–5x) in
+  `years/<TARGET_YEAR>.md` has `prose?=Y`:
+  - **Done** → append `TARGET_YEAR` to `YEARS_DONE`, set `NEXT_YEAR = TARGET_YEAR − 1`, clear `PARTIAL`.
+  - **Not done** (a cap was hit and notable rows are still `prose?=N`, or scouts were budget-capped with
+    more ≥2x names to find) → set **`PARTIAL: TARGET_YEAR`** and DO NOT advance.
+
+**How a `PARTIAL` year resumes (no wasted re-work):** when `TARGET_YEAR` came from `PARTIAL`, SKIP fresh
+scouting of names already in `kb/SEEN.md`; instead read `years/<TARGET_YEAR>.md`, take the notable rows
+with `prose?=N`, and run §4b enrichment on those (flipping them to `Y`). Optionally run ONE cheap sonnet
+scout to catch ≥2x names the first pass missed, appending new roster rows (`prose?=N`) + INDEX + SEEN.
+The year advances once no notable `prose?=N` rows remain.
 
 ---
 
-## 6. STEP 6 — PUSH (proven pattern; origin already has token from clone)
+## 6. STEP 6 — COMMIT + PUSH (reusable; CALL IT REPEATEDLY within a run)
+
+This is not a once-at-the-end step. **Call it after §4a (roster), after EACH opus finding, after each
+light wave, and at §5 (cursor).** `origin` already carries the token from the clone. Use an
+increment-specific commit message, e.g. `year 2025: roster (47 names)`, `year 2025: +IONQ 10x+ deep-dive`,
+`year 2025: 3–5x wave (4)`, `year 2025: cursor → 2024`.
 
 ```bash
 git add -A
 git diff --cached --quiet && echo NO_CHANGES || \
   git -c user.name=rerating-bot -c user.email='garg.anubhav.xyz@gmail.com' \
-      commit -q -m "run <UTC> year <TARGET_YEAR>: <N names, top movers>"
+      commit -q -m "<increment: year <TARGET_YEAR> — what this commit adds>"
 OK=0
 for i in 1 2 3; do
   git fetch -q origin main 2>/dev/null && git rebase -q FETCH_HEAD 2>/dev/null || git rebase --abort 2>/dev/null
