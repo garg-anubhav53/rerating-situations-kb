@@ -48,18 +48,31 @@ a **hard budget of ≤6–8 web searches, then STOP and return what it has**, no
 `coverage_notes` field. Buckets:
 
 - **A. US large/mega-cap re-ratings** — S&P 500 / Nasdaq-100 names that doubled+ in `TARGET_YEAR`.
-- **B. US small- & micro-cap surprises** — the richest bucket for 5x–10x+ stories; Russell 2000 /
-  OTC / recent IPOs that exploded. Push hard here.
-- **C. International / ADR** — Asia (Japan/Korea/Taiwan/China/India), Europe, EM names that multiplied.
+- **B1. US SMALL-cap ($300M–$2B start)** — push hard; many clean 3–10x stories live here.
+- **B2. US MICRO/NANO-cap (<$300M start) + OTC — the single highest-payoff, most-UNDER-covered bucket;
+  where the *surprising 10x+* hide.** Give this bucket the **full search budget** and treat it as the
+  priority. Do **NOT** rely on "biggest gainers of `TARGET_YEAR`" articles alone — those surface only the
+  famous movers. **SCREEN systematically instead:** stock-screener queries (market cap <$300M **AND**
+  1-yr return >100–200%), exchange & **OTC top-gainer / best-performer** tables for the year, Russell
+  Microcap / small-cap gainer lists, low-float momentum names, and SEC filing/volume spikes. The obscure
+  microcap that quietly 8x'd *without press* is the target — **chase the screen, not the headline.**
+- **C. International / ADR** — Asia (Japan/Korea/Taiwan/China/**India**), Europe, EM — include local
+  small/micro-caps, not just the famous ADRs.
 - **D. Class-of-year IPOs / SPACs / spin-offs** — names that debuted or de-SPAC'd and ran.
-- **E. Thematic sweeps** — the year's hot verticals (e.g. AI, biotech/FDA, semis, energy/uranium,
-  crypto-adjacent, EV, weight-loss, etc.) where clusters of multibaggers appear.
+- **E. Thematic sweeps** — the year's hot verticals (AI, biotech/FDA, semis, energy/uranium/nuclear,
+  crypto-treasury, rare-earth/critical-minerals, defense, robotics, quantum, weight-loss, etc.), and
+  **within each theme drill to the SMALLEST pure-plays** — they multiply hardest off a small base.
 
 Each scout returns a **distilled list** (its final message IS the data — no raw dumps), one row per name:
 `ticker | exchange | approx start→end price or mkt-cap | approx multiple (2x/3x/5x/10x+) | one-line
 what-happened | small-cap? (start mkt-cap) | surprising-name? (Y/N)`.
 
-**Dedup fetches:** one broad search beats many narrow ones; fetch any page once.
+**Anti-bias rule (critical for this KB):** web search is biased toward *narrated* winners; the microcap
+long tail is where the biggest, most-instructive surprises hide. When a run is budget-capped, spend the
+marginal search on **B2 microcap screens**, not on confirming another well-known large-cap. If
+B2/microcap or India/Taiwan coverage is thin, say so in `coverage_notes` and leave the year `PARTIAL` so
+a later run does a dedicated **microcap deep-sweep** (scouts skip SEEN names, so they surface only NEW
+micro names). **Dedup fetches:** one broad search beats many narrow; fetch any page once.
 
 ---
 
