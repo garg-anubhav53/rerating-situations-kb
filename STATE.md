@@ -15,7 +15,7 @@ YEARS_DONE: []           # append each fully-captured year, e.g. [2025, 2024]
 ```
 COMPANIES_CAPTURED: 61
 LAST_RUN_UTC:      2026-07-15T09:09:29Z
-LAST_RUN_SUMMARY:  Year 2025 roster captured (61 ≥2x names; 4 at 10x+, 8 at 5–10x). Enrichment in waves; PARTIAL 2025.
+LAST_RUN_SUMMARY:  Year 2025: 61 ≥2x names captured. Enriched all 12 notable 10x+/5–10x (BMNR,QUBT,FORD,DFDV,SBET,PopMart,QBTS,MP,OKLO,CRCL,Cambricon,BE) + 8 of the 3–5x tier (WDC,MU,CRWV,CLS,RGTI,MTSR,Metaplanet,AXTI). Caps hit. PARTIAL 2025 — 14 notable 3–5x rows still prose?=N for next run.
 ```
 
 ## CURSOR RULES (see ROUTINE.md §5)
