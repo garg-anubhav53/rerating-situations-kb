@@ -8,7 +8,7 @@ Newest years at the top (cursor walks backward from 2025).
 | Year | Ticker | Exch | Multiple | Start mkt-cap | Surprising? | One-line: what changed | Write-up |
 |---|---|---|---|---|---|---|---|
 | 2025 | BMNR | NYSE American | 10x+ (intra; ended ~4x) | <$100M | Y | Pivoted to Ethereum treasury (Tom Lee); became largest corporate ETH holder | ✓ |
-| 2025 | QUBT | NASDAQ | 10x+ | <$500M | Y | Photonics quantum micro-cap; retail-driven "Quantum Four" mania | ✓ |
+| 2025 | QUBT | NASDAQ | 10x+ (window-dep.) | <$500M | Y | Photonics quantum micro-cap; retail-driven "Quantum Four" mania | ✓ |
 | 2025 | FORD | NASDAQ | 10x+ | <$100M | Y | Medical-accessories shell pivoted to Solana treasury (Galaxy/Jump/Multicoin) | ✓ |
 | 2025 | DFDV | NASDAQ | 10–15x+ | <$50M | Y | Ex-Janover pivoted to Solana treasury pure play | ✓ |
 | 2025 | SBET | NASDAQ | ~9x (intra; ended +15%) | <$100M | Y | iGaming shell pivoted to ETH treasury (Consensys/Lubin); huge round-trip | ✓ |
