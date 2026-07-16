@@ -119,3 +119,81 @@ Newest years at the top (cursor walks backward from 2025).
 | 2024 | COCHINSHIP | NSE/BSE | ~2.3x | ~$2B | N | Cochin Shipyard; defense-shipbuilding order-book re-rating | — |
 | 2024 | RVNL | NSE/BSE | ~2.25x | mid | Y | Rail Vikas Nigam; India railway-capex PSU frenzy | — |
 | 2024 | IFCI | NSE/BSE | ~2x | small | Y | IFCI; India financial-PSU turnaround/disinvestment speculation | — |
+| 2023 | CVNA | NYSE | ~10–11x | ~$600M | N | Carvana; debt-restructuring turnaround from near-bankruptcy + short squeeze | — |
+| 2023 | ALAR | NASDAQ | 10x+ | ~$15M | Y | Alarum; Israeli residential-proxy/web-data nano-cap re-rating | — |
+| 2023 | MARA | NASDAQ | ~7x (+688%) | ~$400M | N | Marathon; leveraged BTC recovery + halving anticipation | — |
+| 2023 | AMAM | NASDAQ | ~7x (+619%) | ~$225M | Y | Ambrx; China Ph2 breast-cancer ADC data (later J&J acq) | — |
+| 2023 | CIFR | NASDAQ | ~5–7x | ~$300M | Y | Cipher Mining; new-fleet BTC miner ramp | — |
+| 2023 | BTBT | NASDAQ | ~7x (+627%) | ~$70M | Y | Bit Digital; BTC miner pivoting into AI/GPU cloud | — |
+| 2023 | 086520.KS | KOSDAQ | ~6.7x (+571%) | ~$2.5B | Y | Ecopro; world's #1 stock of 2023; Korea battery mania | — |
+| 2023 | MIGI | NASDAQ | ~5–6x | ~$18M | Y | Mawson; ultra-low-float BTC miner/hosting nano-cap | — |
+| 2023 | PRAX | NASDAQ | ~5–6x | ~$375M | Y | Praxis; essential-tremor (ulixacaltamide) trial data | — |
+| 2023 | VFS | NASDAQ | ~9x peak (round-trip) | ~$1.2B float | Y | VinFast; extreme low-float de-SPAC squeeze | — |
+| 2023 | RVNL | NSE/BSE | ~5x | mid | Y | Rail Vikas Nigam; India railway-EPC PSU capex re-rating | — |
+| 2023 | NVDA | NASDAQ | ~3.4x (+239%) | ~$360B | Y | AI/GPU demand explosion; data-center revenue tripled | — |
+| 2023 | MSTR | NASDAQ | ~4.2x | ~$1.7B | Y | MicroStrategy; bitcoin-treasury proxy leveraged BTC rally | — |
+| 2023 | COIN | NASDAQ | ~4.3x | ~$8B | N | Coinbase; regulatory-overhang relief + BTC rally | — |
+| 2023 | RIOT | NASDAQ | ~4.3x (+332%) | ~$500M | N | Riot; bitcoin miner recovery | — |
+| 2023 | SMCI | NASDAQ | ~3x+ | ~$4.5B | N | Super Micro; AI-server maker rode Nvidia GPU boom | — |
+| 2023 | CLSK | NASDAQ | ~3.2x (+221%) | ~$150M | Y | CleanSpark; smallest major BTC miner, pure BTC leverage | — |
+| 2023 | WULF | NASDAQ | ~4–5x | ~$100M | Y | TeraWulf; low-cost-power BTC miner ramp | — |
+| 2023 | BITF | NASDAQ | ~3.5x | ~$140M | Y | Bitfarms; BTC miner fleet expansion | — |
+| 2023 | APLD | NASDAQ | ~3–4x | ~$200M | Y | Applied Digital; crypto → AI-datacenter buildout pivot | — |
+| 2023 | MDGL | NASDAQ | ~3.3x | ~$2B | Y | Madrigal; resmetirom Ph3 MAESTRO-NASH data | — |
+| 2023 | COGT | NASDAQ | ~3.5x | ~$300M | Y | Cogent; bezuclastinib mastocytosis/GIST data | — |
+| 2023 | INBX | NASDAQ | ~3x | ~$350M | Y | Inhibrx; oncology/rare-disease readouts (Sanofi acq) | — |
+| 2023 | RIGL | NASDAQ | ~3x | ~$240M | Y | Rigel; FDA approvals/commercial ramp (Rezlidhia) | — |
+| 2023 | AKBA | NASDAQ | ~3x | ~$280M | Y | Akebia; progress toward Vafseo FDA approval | — |
+| 2023 | AKRO | NASDAQ | ~3x | ~$900M | Y | Akero; efruxifermin Ph2b NASH data | — |
+| 2023 | UEC | NYSE Amer | ~3x | ~$700M | N | Uranium Energy; spot-price surge + utility restocking | — |
+| 2023 | SUZLON | NSE/BSE | ~3x | small | Y | Suzlon; wind-energy turnaround, debt resolution | — |
+| 2023 | MAZDOCK | NSE/BSE | ~3x | mid | Y | Mazagon Dock; defense-shipbuilding order-book boom | — |
+| 2023 | GRSE | NSE/BSE | ~3–3.5x | small | Y | Garden Reach Shipbuilders; naval-defense PSU rally | — |
+| 2023 | TITAGARH | NSE/BSE | ~4x | small | Y | Titagarh Rail; rail-wagon capex beneficiary | — |
+| 2023 | FACT | NSE/BSE | ~3–4x | small | Y | Fertilizers & Chemicals Travancore; PSU re-rating | — |
+| 2023 | JWL | NSE/BSE | ~4–5x | small | Y | Jupiter Wagons; rail-wagon/component capex beneficiary | — |
+| 2023 | IRFC | NSE/BSE | ~3.5x | ~$3B | Y | Indian Railway Finance; PSU financier retail mania | — |
+| 2023 | 010600.KS | KOSDAQ | ~4–5x | small | Y | Kum Yang; battery-materials/graphite retail frenzy | — |
+| 2023 | 005070.KS | KOSDAQ | ~3–4x | small | Y | Cosmo AM&T; high-Ni cathode maker, battery rally | — |
+| 2023 | 3661.TW | TWSE | ~3x (+214%) | mid | Y | Alchip; fabless AI-chip/custom-ASIC design house | — |
+| 2023 | 6857.T | TSE | ~3x | large | Y | Advantest; semi test equipment, HBM/AI-chip testing | — |
+| 2023 | META | NASDAQ | ~3x (+194%) | ~$296B | Y | "Year of Efficiency" cost cuts + ad/AI recovery | — |
+| 2023 | LUCD | NASDAQ | ~3–5x | ~$60M | Y | Lucid Diagnostics; EsoGuard commercial ramp (low conf) | — |
+| 2023 | EOSE | NASDAQ | ~3x | ~$150M | Y | Eos Energy; DOE loan-guarantee battery-storage spike | — |
+| 2023 | AMD | NASDAQ | ~2.3x (+128%) | ~$109B | N | AI GPU (MI300) narrative; PC/DC recovery | — |
+| 2023 | AVGO | NASDAQ | ~2.0x (+104%) | ~$224B | N | Broadcom; AI networking/custom silicon + VMware | — |
+| 2023 | PANW | NASDAQ | ~2.1x (+111%) | ~$45B | Y | Palo Alto; cybersecurity platform consolidation | — |
+| 2023 | UBER | NYSE | ~2.5x (+149%) | ~$56B | Y | First GAAP-profitable year + S&P 500 inclusion | — |
+| 2023 | TSLA | NASDAQ | ~2.0x (+102%) | ~$390B | Y | Rebound from 2022 crash; price cuts + AI narrative | — |
+| 2023 | RCL | NYSE | ~2.6x (+161%) | ~$9B | Y | Royal Caribbean; cruise demand/pricing surge | — |
+| 2023 | CCL | NYSE | ~2.3x | ~$8.6B | Y | Carnival; cruise-demand rebound, debt paydown | — |
+| 2023 | PLTR | NYSE | ~2.5x | ~$13B | N | Palantir; GAAP profitability + AIP launch | — |
+| 2023 | BLDR | NASDAQ | ~2.6x (+157%) | ~$7.5B | Y | Builders FirstSource; demand + buybacks + S&P add | — |
+| 2023 | PHM | NYSE | ~2.0x | ~$11.7B | Y | PulteGroup; homebuilder rate-cut-hopes rally (low conf) | — |
+| 2023 | CAVA | NYSE | ~2.3x | ~$2.4B IPO | N | CAVA; 2023 IPO, strong same-store sales | — |
+| 2023 | GPCR | NASDAQ | ~2.2x | ~$700M IPO | Y | Structure Tx; oral GLP-1 (ACCESS data), 2023 IPO | — |
+| 2023 | VKTX | NASDAQ | ~2.3x | ~$500M | Y | Viking; VK2735 obesity Ph1 data, GLP-1 halo | — |
+| 2023 | AI | NYSE | ~2x (3.6x peak) | ~$1.7B | N | C3.ai; enterprise-AI rebrand rode gen-AI hype | — |
+| 2023 | SOUN | NASDAQ | ~2.2x | ~$300M | Y | SoundHound; voice-AI Dec-2023 momentum/squeeze | — |
+| 2023 | BBAI | NYSE | ~3x off Q4 base | ~$200M | Y | BigBear.ai; Dec-2023 AI-momentum squeeze (low conf) | — |
+| 2023 | IONQ | NYSE | ~2x | ~$1.3B | Y | Quantum pure-play rode Q4-2023 AI/quantum wave | — |
+| 2023 | VERA | NASDAQ | ~2.5x | ~$400M | Y | Vera Tx; IgA nephropathy (atacicept) data | — |
+| 2023 | GRBK | NASDAQ | ~2.25x | ~$750M | Y | Green Brick; homebuilder resilient-demand beneficiary | — |
+| 2023 | SPRO | NASDAQ | ~2–3x | ~$200M | Y | Spero; tebipenem Ph3 cUTI endpoint met | — |
+| 2023 | ROOT | NASDAQ | ~2.3x | ~$250M | Y | Root Insurance; underwriting/profitability turnaround | — |
+| 2023 | EU | NASDAQ | ~2x+ | ~$400M | Y | enCore Energy; Texas ISR uranium producer | — |
+| 2023 | RGTI | NASDAQ | ~2.4x | ~$65M | Y | Rigetti; nano-cap quantum, late-2023 run (low conf) | — |
+| 2023 | ANY | NASDAQ | ~2–3x (8x intra) | ~$40M | Y | Sphere 3D; Gryphon BTC-mining litigation squeeze | — |
+| 2023 | DRCT | NASDAQ | ~2–3x+ | ~$50M | Y | Direct Digital; ad-tech Q4 short-covering rally | — |
+| 2023 | 247540.KQ | KOSDAQ | ~2–3x | mid | Y | EcoPro BM; cathode subsidiary, battery mania | — |
+| 2023 | 005490.KS | KOSPI | ~2x | large | N | POSCO Holdings; repositioned as lithium/battery play | — |
+| 2023 | 6669.TW | TWSE | ~2–3x | mid | N | Wiwynn; AI/GPU server ODM, Nvidia supply chain | — |
+| 2023 | 7013.T | TSE | ~2–3x | mid | Y | IHI Corp; Japan defense-budget-doubling theme | — |
+| 2023 | 7011.T | TSE | ~2x | large | Y | Mitsubishi Heavy; defense re-armament + nuclear | — |
+| 2023 | IRCON | NSE/BSE | ~2.5x | small-mid | N | IRCON; railway-EPC PSU re-rating | — |
+| 2023 | CENTRALBK | NSE/BSE | ~2x | small | Y | Central Bank of India; PSU-bank NPA-cleanup | — |
+| 2023 | BSE | NSE/BSE | ~2x | mid | N | BSE Ltd; financialization-of-savings, derivatives boom | — |
+| 2023 | TPEIR.AT | Athens | ~2–2.5x | mid | Y | Piraeus; Greek NPL cleanup + IG sovereign upgrade | — |
+| 2023 | GGAL | NASDAQ ADR | ~2–3x | mid | Y | Grupo Galicia; Milei-election Argentine-financials rally | — |
+| 2023 | YPF | NYSE ADR | ~2x+ | large | Y | YPF; Milei reform/privatization + energy exports | — |
+| 2023 | PAM | NYSE ADR | ~2x+ | mid | Y | Pampa Energía; Argentine power/gas, post-election rally | — |
