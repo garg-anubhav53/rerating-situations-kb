@@ -197,3 +197,36 @@ Newest years at the top (cursor walks backward from 2025).
 | 2023 | GGAL | NASDAQ ADR | ~2–3x | mid | Y | Grupo Galicia; Milei-election Argentine-financials rally | — |
 | 2023 | YPF | NYSE ADR | ~2x+ | large | Y | YPF; Milei reform/privatization + energy exports | — |
 | 2023 | PAM | NYSE ADR | ~2x+ | mid | Y | Pampa Energía; Argentine power/gas, post-election rally | — |
+| 2022 | INDO | NYSE American | ~17x peak (intra; retraced) | <$100M | Y | Indonesia Energy; nano oil explorer, Russia-invasion energy-panic retail spike | — |
+| 2022 | REPX | NYSE | ~5x | ~$140M | Y | Riley Exploration Permian; tiny-float oil producer rode $100+ oil | — |
+| 2022 | CEIX | NYSE | ~5x | ~$600M | Y | CONSOL Energy; thermal-coal price spike + FCF/buybacks | — |
+| 2022 | SGML | NASDAQ | ~5–6x | ~$300–500M | Y | Sigma Lithium; Brazil spodumene junior, lithium/EV mania | — |
+| 2022 | ENSV | NYSE American | ~5–10x (intra) | <$30M | Y | Enservco; frac-water-heating nano, cold-snap + gas demand spike | — |
+| 2022 | STNG | NYSE | ~3.6x (+260–336%) | ~$1.3B | Y | Scorpio Tankers; product-tanker rates spiked on Russia rerouting | — |
+| 2022 | TNK | NYSE | ~3x (+202%) | ~$500M | N | Teekay Tankers; crude-tanker daily rates surged | — |
+| 2022 | HNRG | NASDAQ | ~3–4x (+277%) | <$150M | Y | Hallador Energy; small Indiana coal+power, coal-price spike | — |
+| 2022 | JSW.WA | Warsaw | ~3–4x (+300%) | ~$0.5–1B | Y | JSW (Jastrzębska); Polish coking-coal miner, EU coal shortage | — |
+| 2022 | ADANIPOWER.NS | NSE | ~3x (+200%) | ~$5–8B | N | Adani Power; coal/power shortage + group momentum | — |
+| 2022 | THYAO.IS | Istanbul | ~3–4x (TRY) | large | Y | Turkish Airlines; BIST local-currency melt-up + travel recovery | — |
+| 2022 | OXY | NYSE | ~2.2x (+122%) | ~$35B | N | Occidental; $100 oil + Berkshire stake; #1 S&P 500 stock of 2022 | — |
+| 2022 | CEG | NASDAQ | ~2x (+109%) | ~$17B | Y | Constellation Energy; nuclear spin-off, power-price + IRA re-rate | — |
+| 2022 | INSW | NYSE | ~2.6x (+163%) | ~$700M | N | International Seaways; crude-tanker rate spike | — |
+| 2022 | TDW | NYSE | ~2x | ~$600M | N | Tidewater; offshore-vessel operator, offshore capex boom | — |
+| 2022 | AERI | NASDAQ | ~2x (+101%) | ~$600M | Y | Aerie Pharma; Alcon buyout M&A pop | — |
+| 2022 | ARCH | NYSE | ~2x | ~$1.3B | N | Arch Resources; met+thermal coal export pricing + buybacks | — |
+| 2022 | BTU | NYSE | ~2x | ~$2.3B | N | Peabody Energy; global thermal-coal shortage | — |
+| 2022 | ARLP | NASDAQ | ~2x | ~$700M | N | Alliance Resource Partners; Illinois-basin coal MLP | — |
+| 2022 | LXU | NYSE | ~2x | ~$700M | N | LSB Industries; nitrogen/ammonia fertilizer, historic pricing | — |
+| 2022 | FSLR | NASDAQ | ~2x | ~$8–9B | N | First Solar; IRA (Aug 2022) manufacturing-credit beneficiary | — |
+| 2022 | AWL.NS | NSE | ~2.8x (+179%) | ~$8–10B | Y | Adani Wilmar; edible-oil FMCG, Adani halo | — |
+| 2022 | ADANIENT.NS | NSE | ~2.25x (+125%) | ~$25–30B | N | Adani Enterprises; Nifty-50 index-inclusion inflows | — |
+| 2022 | ATGL.NS | NSE | ~2.2x (+116%) | ~$15–20B | Y | Adani Total Gas; city-gas distribution re-rate | — |
+| 2022 | RHM.DE | Xetra | ~2.4x (+140%) | ~€4–5B | N | Rheinmetall; German Zeitenwende rearmament post-Ukraine | — |
+| 2022 | SAAB-B.ST | Stockholm | ~2x | mid | N | Saab; Sweden NATO bid + European rearmament backlog | — |
+| 2022 | HAG.DE | Xetra | ~2x+ | ~€1.5–2B | Y | Hensoldt; radar/sensor defense re-rating | — |
+| 2022 | KRDMD.IS | Istanbul | ~2–3x (TRY) | small | Y | Kardemir; Turkish steel, BIST retail melt-up | — |
+| 2022 | VIST | NYSE ADR | ~2x | small–mid | Y | Vista Energy; Vaca Muerta shale-oil ramp + energy prices | — |
+| 2022 | LEU | NYSE American | ~2x (intra) | ~$500M | Y | Centrus Energy; enrichment-supply fear spike post-invasion | — |
+| 2022 | DWAC | NASDAQ | ~6x intra (round-trip) | ~$1.5–2B | Y | Digital World (Trump Media SPAC); political meme squeezes | — |
+| 2022 | 3668.HK | HKEX | ~2x (low conf) | mid | Y | Yancoal Australia HK; thermal-coal price spike | — |
+
