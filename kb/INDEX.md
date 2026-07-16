@@ -25,22 +25,22 @@ Newest years at the top (cursor walks backward from 2025).
 | 2025 | CRWV | NASDAQ | ~4.6x (peak) | ~$23B IPO | N | AI GPU cloud lessor to Microsoft/OpenAI | — |
 | 2025 | CLS | NYSE | ~4x | ~$8B | Y | Celestica AI/networking hardware; hyperscaler supply chain, earnings beats | — |
 | 2025 | RGTI | NASDAQ | ~4–5x | ~$1–2B | Y | Rigetti superconducting qubit; Quanta stake, quantum mania | — |
-| 2025 | 034020.KS | KRX | ~4x | ~$6B | N | Doosan Enerbility; SMR/nuclear-restart + AI-power demand | — |
+| 2025 | 034020.KS | KRX | ~4x | ~$6B | N | Doosan Enerbility; SMR/nuclear-restart + AI-power demand | ✓ |
 | 2025 | 298040.KS | KRX | ~4x | <$2B | Y | Hyosung Heavy transformers; AI-grid capex wave | — |
 | 2025 | 267260.KS | KRX | ~3–5x | mid | Y | HD Hyundai Electric transformers; AI-datacenter grid capex | — |
-| 2025 | APLD | NASDAQ | ~3–4x | ~$1–2B | Y | Applied Digital pivoted crypto-mining → AI datacenter; hyperscaler leases | — |
-| 2025 | HOUS | NYSE | ~3.8x | small | Y | Anywhere Real Estate; transaction-volume recovery/refi hopes | — |
+| 2025 | APLD | NASDAQ | ~3–4x | ~$1–2B | Y | Applied Digital pivoted crypto-mining → AI datacenter; hyperscaler leases | ✓ |
+| 2025 | HOUS | NYSE | ~3.8x | small | Y | Anywhere Real Estate; transaction-volume recovery/refi hopes | ✓ |
 | 2025 | TLSA | NASDAQ | ~3.3x | micro | Y | Tiziana Life Sciences immunology; FDA fast-track catalysts | — |
 | 2025 | PALV | NASDAQ | ~3.2x | micro | Y | Palvella rare-disease dermatology; clinical/FDA catalysts | — |
-| 2025 | RKLB | NASDAQ | ~3–4x | ~$5B | N | Rocket Lab Neutron progress + $816M SDA satellite contract | — |
+| 2025 | RKLB | NASDAQ | ~3–4x | ~$5B | N | Rocket Lab Neutron progress + $816M SDA satellite contract | ✓ |
 | 2025 | MTSR | NASDAQ | ~3x | ~$1B | Y | Metsera GLP-1 obesity; Pfizer/Novo bidding war, acquired by Pfizer | — |
 | 2025 | 3350.T | TSE | ~3–5x | ~$1B | Y | Metaplanet "MicroStrategy of Japan"; aggressive BTC accumulation | — |
-| 2025 | 012450.KS | KRX | ~3x | ~$9B | N | Hanwha Aerospace; Poland/export artillery deals + defense re-rating | — |
-| 2025 | HOOD | NASDAQ | ~3x | ~$30B | Y | Robinhood; crypto/options volumes, prediction markets, S&P 500 inclusion | — |
+| 2025 | 012450.KS | KRX | ~3x | ~$9B | N | Hanwha Aerospace; Poland/export artillery deals + defense re-rating | ✓ |
+| 2025 | HOOD | NASDAQ | ~3x | ~$30B | Y | Robinhood; crypto/options volumes, prediction markets, S&P 500 inclusion | ✓ |
 | 2025 | RR | NASDAQ | ~3–5x | <$200M | Y | Richtech Robotics micro-cap; retail-momentum robotics name | — |
-| 2025 | FIG | NYSE | ~3.5x day-1 (faded <2x YE) | ~$19B IPO | N | Figma design-SW IPO pop-and-fade | — |
+| 2025 | FIG | NYSE | ~3.5x day-1 (faded <2x YE) | ~$19B IPO | N | Figma design-SW IPO pop-and-fade | ✓ |
 | 2025 | BLSH | NYSE | ~3.2x (round-trip) | multi-B IPO | Y | Bullish (Thiel-backed) crypto exchange IPO; spiked then round-tripped | — |
-| 2025 | FUBO | NYSE | ~3x | <$1B | Y | Disney folded Hulu+Live TV into Fubo (70% stake); asset drop-down re-rating | — |
+| 2025 | FUBO | NYSE | ~3x | <$1B | Y | Disney folded Hulu+Live TV into Fubo (70% stake); asset drop-down re-rating | ✓ |
 | 2025 | PLTR | NASDAQ | ~2.3x | ~$150B | Y | Palantir; accelerating US govt + commercial AI deals, mega-cap doubling again | — |
 | 2025 | APP | NASDAQ | ~2.1x | ~$100B | Y | AppLovin AXON ad engine kept beating; joined S&P 500 | — |
 | 2025 | CVNA | NYSE | ~2.1x | ~$50B | Y | Carvana used-car turnaround/profitability scaling continued | — |
