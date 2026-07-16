@@ -238,7 +238,7 @@ Newest years at the top (cursor walks backward from 2025).
 | 2022 | GBT | NASDAQ | ~2.3x | ~$1.9–2.1B | N | Global Blood Therapeutics; Pfizer $5.4B buyout Aug 2022 | ✓ |
 | 2022 | BHVN | NYSE | ~2.3x (borderline) | ~$5–6B | N | Biohaven; Pfizer $11.6B buyout (78.6% premium) 2022 | ✓ |
 | 2022 | CCXI | NASDAQ | ~2.2x | ~$1.6–1.8B | N | ChemoCentryx; Amgen $3.7B buyout Aug 2022 (post-CRL rebound) | ✓ |
-| 2022 | AMR | NYSE | ~2–2.5x | ~$1.0–1.3B | N | Alpha Metallurgical; met-coal price spike + aggressive buybacks | — |
-| 2022 | RECV3.SA | B3 | ~2x | ~$1.1–1.3B | N | PetroReconcavo; Brazil onshore E&P, oil supply shock + BRL | — |
-| 2022 | LWB.WA | WSE | ~2x | ~$350–450M | N | Bogdanka; Polish hard-coal miner, EU coal-supply crunch | — |
-| 2022 | 047810.KS | KRX | ~2x | ~$1.8–2.2B | N | Korea Aerospace (KAI); Poland FA-50 export deal, rearmament wave | — |
+| 2022 | AMR | NYSE | ~2–2.5x | ~$1.0–1.3B | N | Alpha Metallurgical; met-coal price spike + aggressive buybacks | ✓ |
+| 2022 | RECV3.SA | B3 | ~2x | ~$1.1–1.3B | N | PetroReconcavo; Brazil onshore E&P, oil supply shock + BRL | ✓ |
+| 2022 | LWB.WA | WSE | ~2x | ~$350–450M | N | Bogdanka; Polish hard-coal miner, EU coal-supply crunch | ✓ |
+| 2022 | 047810.KS | KRX | ~2x | ~$1.8–2.2B | N | Korea Aerospace (KAI); Poland FA-50 export deal, rearmament wave | ✓ |
