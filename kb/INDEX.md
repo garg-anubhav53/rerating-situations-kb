@@ -75,7 +75,7 @@ Newest years at the top (cursor walks backward from 2025).
 | 2024 | SEZL | NASDAQ | ~9–10x | ~$150M | Y | Sezzle BNPL hit sustained profitability; re-rated from penny stock to growth fintech | ✓ |
 | 2024 | APP | NASDAQ | ~7–8x | ~$15B | Y | AppLovin AXON AI ad engine; best S&P 500 / Nasdaq-100 performer of 2024 | ✓ |
 | 2024 | ROOT | NASDAQ | ~7x | ~$250M | Y | Root Insurance telematics turned profitable; left-for-dead insurtech re-rating | ✓ |
-| 2024 | NXL | NASDAQ | ~7–8x (ended +675%) | <$50M | Y | Nexalin neurostim device microcap; violent surge/plummet cycles | — |
+| 2024 | NXL | NASDAQ | ~7–8x (ended +675%) | <$50M | Y | Nexalin neurostim device microcap; violent surge/plummet cycles | ✓ |
 | 2024 | RKLB | NASDAQ | ~5–6x | ~$1.8B | Y | Rocket Lab; Neutron progress + national-security launch contracts | ✓ |
 | 2024 | MSTR | NASDAQ | ~5.4x | ~$25B | Y | MicroStrategy leveraged bitcoin-treasury flywheel; convertible-debt → BTC buys | ✓ |
 | 2024 | GGAL | NASDAQ ADR | ~4.5x | ~$3B | N | Grupo Galicia; Milei disinflation/austerity re-rated Argentine banks | ✓ |
