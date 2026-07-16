@@ -228,7 +228,7 @@ Newest years at the top (cursor walks backward from 2025).
 | 2022 | DWAC | NASDAQ | ~6x intra (round-trip) | ~$1.5–2B | Y | Digital World (Trump Media SPAC); political meme squeezes | — |
 | 2022 | 3668.HK | HKEX | ~2x (low conf) | mid | Y | Yancoal Australia HK; thermal-coal price spike | — |
 
-| 2022 | SASA.IS | BIST | ~5–6x (TRY) | ~$250–350M | Y | Sasa Polyester; Turkish petrochem micro, BIST melt-up + TRY devaluation + capex | — |
+| 2022 | SASA.IS | BIST | ~5–6x (TRY) | ~$250–350M | Y | Sasa Polyester; Turkish petrochem micro, BIST melt-up + TRY devaluation + capex | ✓ |
 | 2022 | GRSE.NS | NSE | ~4x | ~$280–320M | Y | Garden Reach Shipbuilders; Indian PSU warship builder, order wins + defense-export drive | — |
 | 2022 | KRTX | NASDAQ | ~2.8x | ~$3.5–4B | N | Karuna Therapeutics; Phase 3 EMERGENT-2 schizophrenia (KarXT) win Aug 2022 | — |
 | 2022 | MDGL | NASDAQ | ~2.5x | ~$1.3–1.5B | Y | Madrigal; Phase 3 MAESTRO-NASH resmetirom topline win Dec 19 2022 | — |
