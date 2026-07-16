@@ -86,13 +86,13 @@ Newest years at the top (cursor walks backward from 2025).
 | 2024 | PLTR | NYSE | ~4.4x | ~$35B | Y | Palantir; AI/data-analytics demand, govt+commercial wins, S&P 500 inclusion | ✓ |
 | 2024 | VKTX | NASDAQ | ~4x | ~$1.3B | N | Viking Therapeutics; VK2735 Phase 2 obesity data (Feb gap-up) | — |
 | 2024 | NNE | NASDAQ | ~4–5x (from IPO) | ~$150M IPO | Y | Nano Nuclear microreactor; IPO'd into nuclear/AI-power narrative | ✓ |
-| 2024 | SMR | NYSE | ~4x | ~$1B | Y | NuScale Power; SMR theme + hyperscaler nuclear-PPA sentiment | — |
+| 2024 | SMR | NYSE | ~4x | ~$1B | Y | NuScale Power; SMR theme + hyperscaler nuclear-PPA sentiment | ✓ |
 | 2024 | ALAB | NASDAQ | ~3–4x (from IPO) | ~$5.5B IPO | Y | Astera Labs; PCIe/CXL AI-connectivity chip IPO darling | — |
 | 2024 | YPF | NYSE ADR | ~3x | ~$6B | N | YPF; Vaca Muerta shale optimism + Milei reform | — |
 | 2024 | VST | NYSE | ~3.6x | ~$14B | Y | Vistra; AI/data-center power demand, nuclear+gas generation re-rating | ✓ |
 | 2024 | GEO | NYSE | ~3x | ~$1.3B | Y | GEO Group; Trump win + mass-deportation/ICE-detention capacity narrative | ✓ |
 | 2024 | TLN | NASDAQ | ~3x | ~$4B | N | Talen Energy; Amazon Susquehanna nuclear data-center PPA | — |
-| 2024 | POWL | NASDAQ | ~3x | ~$1B | Y | Powell Industries switchgear; data-center/grid capex backlog | — |
+| 2024 | POWL | NASDAQ | ~3x | ~$1B | Y | Powell Industries switchgear; data-center/grid capex backlog | ✓ |
 | 2024 | SLS | NASDAQ | ~3x | ~$150M | Y | SELLAS Life Sciences; SLS009 cancer-immunotherapy trial catalysts | — |
 | 2024 | HUMA | NASDAQ | ~3x | small | Y | Humacyte; bioengineered vessel ATEV, 3rd FDA RMAT designation | — |
 | 2024 | BTCS | NASDAQ | ~3–4x | <$100M | Y | BTCS Inc; ETH-staking/blockchain-infra microcap crypto beta | — |
