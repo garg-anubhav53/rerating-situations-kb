@@ -13,9 +13,9 @@ YEARS_DONE: [2025]       # append each fully-captured year, e.g. [2025, 2024]
 
 ## COUNTERS
 ```
-COMPANIES_CAPTURED: 61
-LAST_RUN_UTC:      2026-07-16T06:46:42Z
-LAST_RUN_SUMMARY:  Year 2025 COMPLETE. Resume pass enriched the final 6 notable 3–5x rows to prose?=Y (298040.KS Hyosung Heavy, 267260.KS HD Hyundai Electric, TLSA, PALV, RR, BLSH) via sonnet writers (6/8 cap). All tier ≥3–5x rows now have prose. Roster complete → advanced cursor: YEARS_DONE=[2025], NEXT_YEAR=2024, PARTIAL cleared. 2–3x tier (28 names) left as roster one-liners (best-effort, not required for finalize).
+COMPANIES_CAPTURED: 112
+LAST_RUN_UTC:      2026-07-16T09:41:02Z
+LAST_RUN_SUMMARY:  Year 2024 IN PROGRESS. 6 scouts captured 51 unique ≥2x names (10x+:3, 5–10x:7, 3–5x:19, 2–3x:22). Roster + INDEX + SEEN pushed early (§4a). Enrichment waves (opus 10x+/5–10x/surprising, sonnet 3–5x) follow with per-finding pushes. See runs/2026-07-16T09-41-02Z.md.
 ```
 
 ## CURSOR RULES (see ROUTINE.md §5)
