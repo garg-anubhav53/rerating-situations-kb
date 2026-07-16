@@ -228,3 +228,17 @@ Newest years at the top (cursor walks backward from 2025).
 | 2022 | DWAC | NASDAQ | ~6x intra (round-trip) | ~$1.5–2B | Y | Digital World (Trump Media SPAC); political meme squeezes | — |
 | 2022 | 3668.HK | HKEX | ~2x (low conf) | mid | Y | Yancoal Australia HK; thermal-coal price spike | — |
 
+| 2022 | SASA.IS | BIST | ~5–6x (TRY) | ~$250–350M | Y | Sasa Polyester; Turkish petrochem micro, BIST melt-up + TRY devaluation + capex | — |
+| 2022 | GRSE.NS | NSE | ~4x | ~$280–320M | Y | Garden Reach Shipbuilders; Indian PSU warship builder, order wins + defense-export drive | — |
+| 2022 | KRTX | NASDAQ | ~2.8x | ~$3.5–4B | N | Karuna Therapeutics; Phase 3 EMERGENT-2 schizophrenia (KarXT) win Aug 2022 | — |
+| 2022 | MDGL | NASDAQ | ~2.5x | ~$1.3–1.5B | Y | Madrigal; Phase 3 MAESTRO-NASH resmetirom topline win Dec 19 2022 | — |
+| 2022 | MAZDOCK.NS | NSE | ~2.3–2.7x | ~$1.1B | N | Mazagon Dock; Indian submarine/warship builder, defense-indigenization | — |
+| 2022 | TPTX | NASDAQ | ~2.2–2.5x | ~$1.7–2B | Y | Turning Point Therapeutics; BMS $4.1B buyout Jun 2022 (post-selloff base) | — |
+| 2022 | AXSM | NASDAQ | ~2.2–2.5x | ~$1.4–1.8B | N | Axsome; FDA approval of Auvelity (MDD) Aug 2022 | — |
+| 2022 | GBT | NASDAQ | ~2.3x | ~$1.9–2.1B | N | Global Blood Therapeutics; Pfizer $5.4B buyout Aug 2022 | — |
+| 2022 | BHVN | NYSE | ~2.3x (borderline) | ~$5–6B | N | Biohaven; Pfizer $11.6B buyout (78.6% premium) 2022 | — |
+| 2022 | CCXI | NASDAQ | ~2.2x | ~$1.6–1.8B | N | ChemoCentryx; Amgen $3.7B buyout Aug 2022 (post-CRL rebound) | — |
+| 2022 | AMR | NYSE | ~2–2.5x | ~$1.0–1.3B | N | Alpha Metallurgical; met-coal price spike + aggressive buybacks | — |
+| 2022 | RECV3.SA | B3 | ~2x | ~$1.1–1.3B | N | PetroReconcavo; Brazil onshore E&P, oil supply shock + BRL | — |
+| 2022 | LWB.WA | WSE | ~2x | ~$350–450M | N | Bogdanka; Polish hard-coal miner, EU coal-supply crunch | — |
+| 2022 | 047810.KS | KRX | ~2x | ~$1.8–2.2B | N | Korea Aerospace (KAI); Poland FA-50 export deal, rearmament wave | — |
