@@ -14,8 +14,8 @@ YEARS_DONE: []           # append each fully-captured year, e.g. [2025, 2024]
 ## COUNTERS
 ```
 COMPANIES_CAPTURED: 61
-LAST_RUN_UTC:      2026-07-15T09:09:29Z
-LAST_RUN_SUMMARY:  Year 2025: 61 ≥2x names captured. Enriched all 12 notable 10x+/5–10x (BMNR,QUBT,FORD,DFDV,SBET,PopMart,QBTS,MP,OKLO,CRCL,Cambricon,BE) + 8 of the 3–5x tier (WDC,MU,CRWV,CLS,RGTI,MTSR,Metaplanet,AXTI). Caps hit. PARTIAL 2025 — 14 notable 3–5x rows still prose?=N for next run.
+LAST_RUN_UTC:      2026-07-16T03:41:53Z
+LAST_RUN_SUMMARY:  Year 2025 PARTIAL resume: enriched 8 more 3–5x rows to prose?=Y (RKLB, HOOD, Doosan 034020.KS, Hanwha Aero 012450.KS, APLD, FIG, HOUS, FUBO). Sonnet cap (8) hit. 6 notable 3–5x rows still prose?=N (298040.KS Hyosung Heavy, 267260.KS HD Hyundai Electric, TLSA, PALV, RR, BLSH) for next run; 2–3x tier remains best-effort. PARTIAL 2025 retained.
 ```
 
 ## CURSOR RULES (see ROUTINE.md §5)
