@@ -550,3 +550,19 @@ Newest years at the top (cursor walks backward from 2025).
 | 2019 | MYOK | NASDAQ | ~2x+ | small/mid | Y | MyoKardia — mavacamten EXPLORER-HCM Phase 3 cardiomyopathy data readout | ✓ |
 | 2019 | ISEE | NASDAQ | ~3x (partial-yr) | <$200M | Y | Iveric Bio — Zimura (avacincaptad) geographic-atrophy Phase 2b data (Jan baseline unverified) | ✓ |
 | 2019 | 603501.SS | Shanghai | ~2-3x | (already large) | N | Will Semiconductor — CMOS image sensors (OmniVision); China-semis theme; already large-cap | ✓ |
+| 2018 | MDGL | NASDAQ | ~8-10x | ~$330M | Y | Madrigal — MGL-3196 (resmetirom) NASH Phase 2 liver-fat blowout; tiny-float parabola | — |
+| 2018 | ECYT | NASDAQ | ~6-8x | ~$220M | Y | Endocyte — Lu-PSMA-617 radioligand revival → Novartis $2.1B buyout Dec 2018 | — |
+| 2018 | TLRY | NASDAQ | ~4x IPO→YE (18x peak) | ~$1.2B IPO | Y | Tilray — first pure-play cannabis IPO on major US exchange; $17→$300 Sept squeeze→~$70 close | — |
+| 2018 | AMRN | NASDAQ | ~3-4x | ~$1.2B | Y | Amarin — REDUCE-IT Vascepa CV-outcomes trial blowout (Sept 2018); cleanest business-change re-rate | — |
+| 2018 | ARWR | NASDAQ | ~3-4x | ~$0.55B | Y | Arrowhead — RNAi/TRiM platform reboot (ARO-AAT, cardio-metabolic); J&J/Amgen validation | — |
+| 2018 | IIPR | NYSE | ~2.5-3x (conf. flag) | ~$200M | Y | Innovative Industrial Properties — cannabis REIT sale-leaseback "picks-and-shovels" re-rate | — |
+| 2018 | VCEL | NASDAQ | ~3x | ~$280M | Y | Vericel — MACI/Epicel cartilage & burn-care commercial-execution re-rate, no binary catalyst | — |
+| 2018 | MRMD | OTC | ~4-5x | <$50M | Y | MariMed — cannabis real-estate/branding nano roll-up; biggest cannabis penny-stock gainer of 2018 | — |
+| 2018 | TTD | NASDAQ | ~2.5x (+154%) | ~$4-5B | N | The Trade Desk — programmatic DSP + Connected-TV ad growth; best full-year return of any major US stock 2018 | — |
+| 2018 | ZS | NASDAQ | ~2x | ~$2B IPO | N | Zscaler — cloud-security (zero-trust/SASE) IPO Mar 2018, held gains through Q4 selloff | — |
+| 2018 | TSRO | NASDAQ | ~2x | ~$2.7B | N | Tesaro — Zejula PARP momentum → GSK $5.1B/$75-share buyout Dec 3 2018 (63% premium) | — |
+| 2018 | ABLX | Euronext BR | ~2.1x | ~€2B | N | Ablynx — nanobody biotech; Sanofi €3.9B cash takeout after Novo Nordisk approach, Jan 2018 | — |
+| 2018 | CRON | NASDAQ | ~2-3x (conf. flag) | ~$1B | Y | Cronos Group — Canada legalization + Altria $1.8B/45% stake (Dec 7 2018 pop) | — |
+| 2018 | KSHB | NASDAQ | ~3x (LOW conf.) | ~$200M | N | KushCo — cannabis packaging/vape-hardware ancillary; revenue +177% YoY | — |
+| 2018 | UIS | NYSE | ~2x (cal-yr unconf.) | ~$600M | Y | Unisys — legacy-IT turnaround; pension de-risk + gov contract wins; S&P SmallCap 600 add | — |
+| 2018 | GRWG | OTC | ~2-3x (unverified) | <$20M | N | GrowGeneration — hydroponics/grow-supply retailer; pre-Nasdaq-uplist nano | — |
