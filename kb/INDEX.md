@@ -242,3 +242,94 @@ Newest years at the top (cursor walks backward from 2025).
 | 2022 | RECV3.SA | B3 | ~2x | ~$1.1–1.3B | N | PetroReconcavo; Brazil onshore E&P, oil supply shock + BRL | ✓ |
 | 2022 | LWB.WA | WSE | ~2x | ~$350–450M | N | Bogdanka; Polish hard-coal miner, EU coal-supply crunch | ✓ |
 | 2022 | 047810.KS | KRX | ~2x | ~$1.8–2.2B | N | Korea Aerospace (KAI); Poland FA-50 export deal, rearmament wave | ✓ |
+| 2021 | GME | NYSE | ~28x peak (ended ~8x) | ~$1.2B | N | GameStop; WSB short squeeze vs Melvin — the archetype meme trade | — |
+| 2021 | AMC | NYSE | ~36x peak (ended ~13x) | ~$1B | N | AMC; second-wave meme squeeze, Aron raised equity into the top | — |
+| 2021 | KOSS | Nasdaq | ~20x peak | ~$50M | Y | Koss; nano headphone maker swept into Jan squeeze basket, no news | — |
+| 2021 | NAKD | Nasdaq | ~10x | ~$50M | Y | Naked Brand; sub-$1 apparel shell, WSB pump, later reverse-split | — |
+| 2021 | EXPR | NYSE | ~10x (two waves) | ~$100M | Y | Express; mall retailer caught in Jan + Nov squeeze waves | — |
+| 2021 | SPRT | Nasdaq | ~6.6x (→GREE) | ~$120M | Y | Support.com; ~70% SI + pending Greenidge crypto reverse-merger | — |
+| 2021 | DWAC | Nasdaq | ~10–17x peak | ~$293M | Y | Digital World; Trump/Truth Social SPAC, +580% in October | — |
+| 2021 | SAVA | Nasdaq | ~8–17x peak (ended ~6.75x) | ~$400M | Y | Cassava Sciences; Alzheimer's simufilam hype, later fraud claims | — |
+| 2021 | OCGN | Nasdaq | ~16x | ~$200M | Y | Ocugen; US rights to India's Covaxin, retail EUA-hope mania | — |
+| 2021 | TLRY | Nasdaq | ~10x intraday | ~$1.5B | Y | Tilray; "next GME" cannabis legalization rally, round-tripped | — |
+| 2021 | CEI | NYSE Amer | ~60x peak | nano | Y | Camber Energy; nano oil co., Viking Energy merger squeeze | — |
+| 2021 | RCAT | Nasdaq | ~18x | nano | Y | Red Cat; drone nano-cap, quiet massive spike | — |
+| 2021 | TTML.BO | BSE | ~11x | <$70M | Y | Tata Teleservices Maharashtra; micro telecom, Vi-relief frenzy | — |
+| 2021 | MARA | Nasdaq | ~7x c2c (~10x trough-peak) | ~$200–500M | N | Marathon Digital; smallest-float BTC miner, most violent | — |
+| 2021 | CAN | Nasdaq | ~7x ($35 ATH) | ~$500M | Y | Canaan; Chinese mining-rig maker, March peak | — |
+| 2021 | BTBT | Nasdaq | ~6–7x | ~$100M | Y | Bit Digital; tiny NY-listed BTC miner, later ETH pivot | — |
+| 2021 | SOS | NYSE | ~5x+ | ~$300M | Y | SOS Ltd; "Chinese blockchain" pump/squeeze, later SEC scrutiny | — |
+| 2021 | BITF | Nasdaq | ~7x | ~$150M | Y | Bitfarms; Quebec hydro miner, Nasdaq dual-listing leg | — |
+| 2021 | HIVE | Nasdaq | ~5–8x | ~$150M | N | HIVE; GPU BTC/ETH hybrid miner, rode both crypto legs | — |
+| 2021 | MSTR | Nasdaq | ~7–9x peak | ~$1.5B | N | MicroStrategy; Saylor's leveraged bitcoin balance-sheet | — |
+| 2021 | SI | NYSE | ~6x | ~$1B | Y | Silvergate; crypto-native bank/stablecoin settlement rail | — |
+| 2021 | IRNT | NYSE | ~5–7x | ~$1.2B | Y | IronNet; de-SPAC low-float WSB squeeze, round-tripped | — |
+| 2021 | PROG | Nasdaq | ~6x | micro | Y | Progenity; squeezed with IRNT/ATER September basket | — |
+| 2021 | BBIG | Nasdaq | ~8.8x | micro | Y | Vinco Ventures; Lomotif acquisition hype, Reddit-fueled | — |
+| 2021 | SNDL | Nasdaq | ~7x | ~$1.5B | Y | Sundial; penny cannabis WSB favorite, dilution-funded pump | — |
+| 2021 | ZIM | NYSE | ~5x | ~$1.7B IPO | Y | ZIM; Israeli container liner IPO into the freight super-spike | — |
+| 2021 | DAC | NYSE | ~5–6x (unconf.) | ~$300M | Y | Danaos; containership charter-owner, record charter rates | — |
+| 2021 | ESEA | Nasdaq | ~6x+ | ~$30–50M | Y | Euroseas; small containership owner, 2021 shipping-rate boom | — |
+| 2021 | CCIV | NYSE | ~6.5x | ~$2.1B trust | Y | Churchill Capital IV; the Lucid Motors EV vehicle, pre-close run | — |
+| 2021 | ADANIENT.NS | NSE | ~7x | ~$3–4B | Y | Adani Enterprises; flagship re-rate on infra/green narrative | — |
+| 2021 | ATGL.NS | NSE | ~5x+ | ~$2B | Y | Adani Total Gas; city-gas, thin float amplified group re-rate | — |
+| 2021 | CGPOWER.NS | NSE | ~7–9x | ~$400M | Y | CG Power; fraud-recovery turnaround (Tube Inv/Murugappa) | — |
+| 2021 | POONAWALLA.NS | NSE | ~5x | ~$270M | Y | Poonawalla Fincorp; NBFC re-rate on Poonawalla capital infusion | — |
+| 2021 | BALAMINES.NS | NSE | ~5.6x | ~$200M | Y | Balaji Amines; specialty amines, China+1 supply-chain shift | — |
+| 2021 | RTNPOWER.NS | NSE | ~5–10x (unconf.) | <$150M | Y | RattanIndia Power; penny power-gen, retail-speculative frenzy | — |
+| 2021 | CYCA | OTC | ~6.6x (unconf.) | nano/OTC | Y | Cytta Corp; obscure OTC tech shell, low-float runner | — |
+| 2021 | GWSO | OTC | ~5.4x (unconf.) | nano/OTC | Y | GreenWave; OTC shell/de-SPAC vehicle runner | — |
+| 2021 | RIOT | Nasdaq | ~4–5x (two legs) | ~$400M | N | Riot Blockchain; BTC-miner beta, doubled twice in-year | — |
+| 2021 | EBON | Nasdaq | ~4–5x | ~$150M | Y | Ebang; Chinese ASIC maker, crypto-proxy basket | — |
+| 2021 | HUT | Nasdaq | ~4x | ~$400M | N | Hut 8; Canadian miner w/ BTC treasury, Nasdaq dual-list leg | — |
+| 2021 | MOGO | Nasdaq | ~4x | micro | Y | Mogo; Canadian crypto-adjacent fintech, crypto basket | — |
+| 2021 | ATER | Nasdaq | ~4x | ~$150M | Y | Aterian; e-commerce micro, repeat meme-squeeze | — |
+| 2021 | CLOV | Nasdaq | ~3–4x | ~$3.7B | Y | Clover Health; Chamath de-SPAC, 40%+ SI squeeze | — |
+| 2021 | ATOS | Nasdaq | ~3x | micro | Y | Atossa; COVID + breast-cancer pipeline, meme+biotech | — |
+| 2021 | MMAT | Nasdaq | ~3.6x | micro | Y | Meta Materials; Torchlight Energy SPAC-merger meme | — |
+| 2021 | IDEX | Nasdaq | ~4x | micro | Y | Ideanomics; China-EV hype microcap, pumped then crashed | — |
+| 2021 | GEVO | Nasdaq | ~3x c2c | micro | Y | Gevo; sustainable-aviation-fuel/biofuel speculative run | — |
+| 2021 | IRIX | Nasdaq | ~4x | micro | Y | IRIDEX; medical-device microcap, quiet steady re-rating | — |
+| 2021 | APA | Nasdaq | ~3.3x | ~$4B | N | Apache; levered balance sheet amplified oil-price torque | — |
+| 2021 | UUUU | NYSE Amer | ~4.5x | ~$300M | Y | Energy Fuels; US uranium/REE producer, SPUT squeeze | — |
+| 2021 | UEC | NYSE Amer | ~4x | ~$400M | Y | Uranium Energy; no production, pure speculative SPUT rider | — |
+| 2021 | DNN | NYSE Amer | ~4x | ~$500M | Y | Denison Mines; Athabasca Basin developer, high-grade optionality | — |
+| 2021 | URG | NYSE Amer | ~4x | ~$150M | Y | Ur-Energy; small Wyoming in-situ uranium producer | — |
+| 2021 | AA | NYSE | ~3.2x | ~$3B | N | Alcoa; aluminum supercycle, China curbs, smelter curtailments | — |
+| 2021 | AMR | NYSE | ~5x (unconf.) | ~$150–250M | Y | Alpha Met (ex-Contura); small-float met-coal pure-play | — |
+| 2021 | GSL | NYSE | ~4x (unconf.) | ~$150M | Y | Global Ship Lease; mid-size containership lessor, record charters | — |
+| 2021 | CHPT | NYSE | ~3.7x (pre-merger SBE) | ~$1B | Y | ChargePoint; Switchback SPAC hype into merger close | — |
+| 2021 | LCID | Nasdaq | ~4x post-merger | ~$24B | N | Lucid; EV mania delivery/production news, Nov peak | — |
+| 2021 | TANLA.NS | NSE | ~3x | ~$340M | Y | Tanla Platforms; cloud/SMS-API messaging, digital-comms boom | — |
+| 2021 | HAPPSTMNDS.NS | NSE | ~3–4x | ~$800M | Y | Happiest Minds; post-IPO small-cap IT darling | — |
+| 2021 | HFCL.NS | NSE | ~3–4x | ~$270M | N | HFCL; optical-fiber/telecom-equip, 5G/PLI optimism | — |
+| 2021 | BBBY | Nasdaq | ~2–2.6x | ~$1.9B | N | Bed Bath & Beyond; meme basket + Ryan Cohen stake news | — |
+| 2021 | GREE | Nasdaq | ~2–3x | ~$0.8–1B | Y | Greenidge; BTC miner absorbing SPRT's meme mania on debut | — |
+| 2021 | NVAX | Nasdaq | ~2.6x | ~$8B | N | Novavax; COVID vaccine dev, periodic trial-data spikes | — |
+| 2021 | MRNA | Nasdaq | ~2.4–2.7x | ~$50B | N | Moderna; booster-driven second leg off mega-cap base | — |
+| 2021 | GTBIF | OTC | ~2.2x | ~$4B | N | Green Thumb; stronger US MSO, same legalization rally | — |
+| 2021 | DVN | NYSE | ~2.9x | ~$8–13B | N | Devon; best S&P 500 performer, post-Cimarex + capital discipline | — |
+| 2021 | MRO | NYSE | ~2.4–2.7x | ~$5–7B | N | Marathon Oil; Permian/Eagle Ford pure-play, buyback pivot | — |
+| 2021 | FANG | Nasdaq | ~2.2–2.3x | ~$8–12B | N | Diamondback; Permian pure-play, FCF/dividend story | — |
+| 2021 | OXY | NYSE | ~2.2x | ~$14B | N | Occidental; levered post-Anadarko, Icahn stake, oil beta | — |
+| 2021 | GPOR | Nasdaq | ~2x+ | ~$0.7–1B | Y | Gulfport; emerged from Ch.11 May 2021, small float, reorg-low base | — |
+| 2021 | BBWI | NYSE | ~2.3x | ~$10–12B | Y | Bath & Body Works; L Brands home-fragrance boom + VS spinoff | — |
+| 2021 | FTNT | Nasdaq | ~2.4x | ~$23B | Y | Fortinet; cybersecurity demand surge, best large-cap tech 2021 | — |
+| 2021 | F | NYSE | ~2.4x | ~$34B | Y | Ford; EV pivot (F-150 Lightning), a mega-cap auto doubling | — |
+| 2021 | NVDA | Nasdaq | ~2.3x | ~$330B | Y | Nvidia; AI/data-center + gaming, rare double off a huge base | — |
+| 2021 | NUE | NYSE | ~2.1x | ~$17B | Y | Nucor; steel-price supercycle, pricing power | — |
+| 2021 | X | NYSE | ~2.3x | ~$3.5B | N | US Steel; supercycle + reshoring demand, buybacks | — |
+| 2021 | CLF | NYSE | ~2.9x | ~$4B | N | Cleveland-Cliffs; integrated iron-ore-to-steel, HRC torque | — |
+| 2021 | ARCH | NYSE | ~2.05x FY | ~$500M | Y | Arch Resources; met/thermal coal, H2-2021 price rally | — |
+| 2021 | CCJ | NYSE | ~2.1x | ~$5.5B | N | Cameco; largest Western uranium producer, SPUT squeeze | — |
+| 2021 | SBLK | Nasdaq | ~2.8x | ~$700M | N | Star Bulk; dry-bulk, Baltic Dry Index at 2008-level highs | — |
+| 2021 | GOGL | Nasdaq | ~2x | ~$1B | N | Golden Ocean; dry-bulk shipowner, freight-rate boom | — |
+| 2021 | EGLE | Nasdaq | ~2–4x | small | N | Eagle Bulk; dry-bulk carrier, 2021 freight spike | — |
+| 2021 | BLNK | Nasdaq | ~2.2x | ~$1.4B | N | Blink Charging; Dec-2020 charging mania carried into 2021 | — |
+| 2021 | WKHS | Nasdaq | ~2.6x | ~$1.8B | Y | Workhorse; USPS-contract hopes, crashed >70% on losing bid | — |
+| 2021 | RIVN | Nasdaq | ~2.2x from IPO | ~$66.5B IPO | N | Rivian; biggest 2021 US IPO, week-one record high | — |
+| 2021 | 247540.KQ | KOSDAQ | ~2.3x | ~$1.5–1.8B | N | EcoPro BM; EV-battery cathode-material maker, supply-chain boom | — |
+| 2021 | RR.L | LSE | ~2x | ~£6–7B | Y | Rolls-Royce; aero-engine post-Covid travel-recovery turnaround | — |
+| 2021 | 1772.HK | HKEX | ~2–3x (unconf.) | multi-$B | N | Ganfeng Lithium; EV-battery raw-material boom, later crashed | — |
+| 2021 | NMDC.NS | NSE | ~2–3x | mid-cap | N | India PSU-metals basket (NMDC/Hind Copper/NALCO); supercycle | — |
+| 2021 | 003670.KS | KRX | ~2–2.5x (unconf.) | large | N | POSCO Chemical/Future M; battery anode/cathode arm re-rate | — |
