@@ -524,29 +524,29 @@ Newest years at the top (cursor walks backward from 2025).
 | 2019 | BESI | Euronext AMS | ~2x | ~€2.5B | N | BE Semiconductor (Besi) — semi-assembly-equipment capex recovery | ✓ |
 | 2019 | CDLX | NASDAQ | ~3-4x | ~$300M | Y | Cardlytics — bank purchase-data ad platform; revenue accel + bank partners | ✓ |
 | 2019 | 688019.SS | SSE STAR | ~2-5x | small IPO | Y | Anji Microelectronics — STAR Market launch-cohort debut doubling (CMP slurry) | ✓ |
-| 2019 | PET | LSE-AIM | ~17x (unverif.) | nano | Y | Petrel Resources — Ireland oil/gas explorer; extreme penny-stock speculative rally (UNVERIFIED) | — |
-| 2019 | ARQL | NASDAQ | ~7x | ~$250-300M | Y | ArQule — oncology pipeline (ARQ-531 BTK, derazantinib) → Merck $20/sh cash tender Dec 2019 | — |
-| 2019 | EVER | NASDAQ | ~7.4x (+642%) | ~$110M | Y | EverQuote — online insurance-quote marketplace beat-and-raise off a low-followed 2018 IPO | — |
-| 2019 | 300782.SZ | ChiNext | ~8x (+710%) | small IPO | Y | Maxscend Microelectronics — RF front-end/switch chips; 5G + China semi import-substitution | — |
-| 2019 | ANO.AX | ASX | ~5-7x | <A$100M | Y | Advance Nanotek (Advance ZincTek) — zinc-oxide sunscreen-ingredient nano; profit growth | — |
-| 2019 | AVH.AX | ASX | ~6x+ | ~A$130-150M | Y | Avita Medical — RECELL spray-on-skin burn/wound device US commercial inflection | — |
-| 2019 | AMX.V | TSXV | ~6.6x (+557%) | nano | Y | Amex Exploration — Quebec Perron high-grade gold drilling; TSXV top mining gainer 2019 | — |
-| 2019 | 300552.SZ | ChiNext | ~5-6x (+486%) | small | Y | Wanji Technology — ETC toll-collection hardware on national ETC-mandate rollout | — |
-| 2019 | STX.L | LSE-AIM | ~5-6x (+495%) | micro | Y | Shield Therapeutics — Accrufer/Feraccru (iron-deficiency anemia) FDA approval | — |
-| 2019 | 300598.SZ | ChiNext | ~5-6x (+478%) | small | Y | Chengmai Technology — software/OS-services momentum (ticker approx, unverified) | — |
-| 2019 | DYA.V | TSXV | ~4x | nano | Y | dynaCERT — HydraGEN diesel-emissions tech; TSXV's overall #1 stock of 2019 | — |
-| 2019 | PPK.AX | ASX | ~4.9x (+387%) | nano | Y | PPK Group — coal-services shell re-rated on its Li-S Energy graphene/battery stake | — |
-| 2019 | WGO.AX | ASX | ~4x (+300%) | micro | Y | Warrego Energy — West Erregulla (Perth Basin) onshore gas-discovery flow-test | — |
-| 2019 | 300759.SZ | ChiNext | ~4.7x (+369%) | IPO | Y | Pharmaron — CRO/pharma-outsourcing platform; 2019 A-share IPO | — |
-| 2019 | 002351.SZ | SZSE | ~4.6x (+364%) | small | Y | Edifier — consumer-audio maker riding the true-wireless-earbuds boom | — |
-| 2019 | TPEIR.AT | Athens | ~3.5x (+250%+) | large bank | N | Piraeus Bank — Greek-bank recovery (Hercules NPL scheme, pro-business govt, end of capital controls) | — |
-| 2019 | 032500.KQ | KOSDAQ | ~3x+ | small | Y | KMW Inc — 5G base-station antenna/RF; Korea 5G-rollout profit swing (Q3 OP loss→₩57.7bn) | — |
-| 2019 | ORPH | LSE-AIM | ~3x (+209%) | micro | Y | Open Orphan — ex-Venn reverse-merger; orphan-drug/CRO (hVIVO challenge-trial) platform | — |
-| 2019 | 300661.SZ | ChiNext | ~3-5x (est.) | small | N | SG Micro — analog-semiconductor supplier; China semi self-sufficiency (exact % unverified) | — |
-| 2019 | 300223.SZ | ChiNext | ~3-5x (est.) | small | Y | BJ Junzheng (Ingenic) — SoC/IoT chipmaker; China-semis theme (exact % unverified) | — |
-| 2019 | ETE.AT | Athens | ~2.7x (+171%) | large bank | N | National Bank of Greece — same Greek-bank recovery re-rating theme | — |
-| 2019 | STX.AX | ASX | ~2.2x (+122%) | small | N | Strike Energy — West Erregulla JV partner; same gas-discovery re-rate | — |
-| 2019 | AUDX | NASDAQ | ~2x | small/mid | Y | Audentes Therapeutics — AT132 gene-therapy progress → Astellas ~$3B buyout Dec 2019 | — |
-| 2019 | MYOK | NASDAQ | ~2x+ | small/mid | Y | MyoKardia — mavacamten EXPLORER-HCM Phase 3 cardiomyopathy data readout | — |
-| 2019 | ISEE | NASDAQ | ~3x (partial-yr) | <$200M | Y | Iveric Bio — Zimura (avacincaptad) geographic-atrophy Phase 2b data (Jan baseline unverified) | — |
-| 2019 | 603501.SS | Shanghai | ~2-3x | (already large) | N | Will Semiconductor — CMOS image sensors (OmniVision); China-semis theme; already large-cap | — |
+| 2019 | PET | LSE-AIM | ~17x (unverif.) | nano | Y | Petrel Resources — Ireland oil/gas explorer; extreme penny-stock speculative rally (UNVERIFIED) | ✓ |
+| 2019 | ARQL | NASDAQ | ~7x | ~$250-300M | Y | ArQule — oncology pipeline (ARQ-531 BTK, derazantinib) → Merck $20/sh cash tender Dec 2019 | ✓ |
+| 2019 | EVER | NASDAQ | ~7.4x (+642%) | ~$110M | Y | EverQuote — online insurance-quote marketplace beat-and-raise off a low-followed 2018 IPO | ✓ |
+| 2019 | 300782.SZ | ChiNext | ~8x (+710%) | small IPO | Y | Maxscend Microelectronics — RF front-end/switch chips; 5G + China semi import-substitution | ✓ |
+| 2019 | ANO.AX | ASX | ~5-7x | <A$100M | Y | Advance Nanotek (Advance ZincTek) — zinc-oxide sunscreen-ingredient nano; profit growth | ✓ |
+| 2019 | AVH.AX | ASX | ~6x+ | ~A$130-150M | Y | Avita Medical — RECELL spray-on-skin burn/wound device US commercial inflection | ✓ |
+| 2019 | AMX.V | TSXV | ~6.6x (+557%) | nano | Y | Amex Exploration — Quebec Perron high-grade gold drilling; TSXV top mining gainer 2019 | ✓ |
+| 2019 | 300552.SZ | ChiNext | ~5-6x (+486%) | small | Y | Wanji Technology — ETC toll-collection hardware on national ETC-mandate rollout | ✓ |
+| 2019 | STX.L | LSE-AIM | ~5-6x (+495%) | micro | Y | Shield Therapeutics — Accrufer/Feraccru (iron-deficiency anemia) FDA approval | ✓ |
+| 2019 | 300598.SZ | ChiNext | ~5-6x (+478%) | small | Y | Chengmai Technology — software/OS-services momentum (ticker approx, unverified) | ✓ |
+| 2019 | DYA.V | TSXV | ~4x | nano | Y | dynaCERT — HydraGEN diesel-emissions tech; TSXV's overall #1 stock of 2019 | ✓ |
+| 2019 | PPK.AX | ASX | ~4.9x (+387%) | nano | Y | PPK Group — coal-services shell re-rated on its Li-S Energy graphene/battery stake | ✓ |
+| 2019 | WGO.AX | ASX | ~4x (+300%) | micro | Y | Warrego Energy — West Erregulla (Perth Basin) onshore gas-discovery flow-test | ✓ |
+| 2019 | 300759.SZ | ChiNext | ~4.7x (+369%) | IPO | Y | Pharmaron — CRO/pharma-outsourcing platform; 2019 A-share IPO | ✓ |
+| 2019 | 002351.SZ | SZSE | ~4.6x (+364%) | small | Y | Edifier — consumer-audio maker riding the true-wireless-earbuds boom | ✓ |
+| 2019 | TPEIR.AT | Athens | ~3.5x (+250%+) | large bank | N | Piraeus Bank — Greek-bank recovery (Hercules NPL scheme, pro-business govt, end of capital controls) | ✓ |
+| 2019 | 032500.KQ | KOSDAQ | ~3x+ | small | Y | KMW Inc — 5G base-station antenna/RF; Korea 5G-rollout profit swing (Q3 OP loss→₩57.7bn) | ✓ |
+| 2019 | ORPH | LSE-AIM | ~3x (+209%) | micro | Y | Open Orphan — ex-Venn reverse-merger; orphan-drug/CRO (hVIVO challenge-trial) platform | ✓ |
+| 2019 | 300661.SZ | ChiNext | ~3-5x (est.) | small | N | SG Micro — analog-semiconductor supplier; China semi self-sufficiency (exact % unverified) | ✓ |
+| 2019 | 300223.SZ | ChiNext | ~3-5x (est.) | small | Y | BJ Junzheng (Ingenic) — SoC/IoT chipmaker; China-semis theme (exact % unverified) | ✓ |
+| 2019 | ETE.AT | Athens | ~2.7x (+171%) | large bank | N | National Bank of Greece — same Greek-bank recovery re-rating theme | ✓ |
+| 2019 | STX.AX | ASX | ~2.2x (+122%) | small | N | Strike Energy — West Erregulla JV partner; same gas-discovery re-rate | ✓ |
+| 2019 | AUDX | NASDAQ | ~2x | small/mid | Y | Audentes Therapeutics — AT132 gene-therapy progress → Astellas ~$3B buyout Dec 2019 | ✓ |
+| 2019 | MYOK | NASDAQ | ~2x+ | small/mid | Y | MyoKardia — mavacamten EXPLORER-HCM Phase 3 cardiomyopathy data readout | ✓ |
+| 2019 | ISEE | NASDAQ | ~3x (partial-yr) | <$200M | Y | Iveric Bio — Zimura (avacincaptad) geographic-atrophy Phase 2b data (Jan baseline unverified) | ✓ |
+| 2019 | 603501.SS | Shanghai | ~2-3x | (already large) | N | Will Semiconductor — CMOS image sensors (OmniVision); China-semis theme; already large-cap | ✓ |
