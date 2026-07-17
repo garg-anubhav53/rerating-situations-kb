@@ -431,3 +431,61 @@ Newest years at the top (cursor walks backward from 2025).
 | 2020 | SPCE | NYSE | ~2.9x (peak Jan-Feb) | ~$2.5B | Y | Virgin Galactic; space-tourism SPAC, run was Jan-Feb 2020 | — |
 | 2020 | HYLN | NYSE | ~2-3x (peak ~5.8x, RT) | ~$1.5B | Y | Hyliion; EV-powertrain SPAC, cooled hard post-merger | — |
 | 2020 | BIGC | Nasdaq | ~2.9x (peak ~6x) | ~$1.6B | Y | BigCommerce; "Shopify alternative" IPO, spiked then faded | — |
+
+<!-- 2020 deep-sweep run 2 (micro/OTC/Asia/EM), 2026-07-17T12-48-48Z -->
+| 2020 | BTBT | Nasdaq | ~10x+ | ~$15M | Y | Bit Digital — Chinese P2P lender pivoted to BTC mining (Sept rename), rode Q4 BTC rally; cited as best-performing US stock of 2020 | — |
+| 2020 | NCYT.L | AIM/Euronext | ~20x | small-mid | Y | Novacyt — COVID PCR test kits (Primerdesign); best-performing AIM share of 2020 on UK/global testing contracts | — |
+| 2020 | SNG.L | AIM | ~25x | small | Y | Synairgen — SNG001 inhaled interferon-beta; Jul positive hospitalised-COVID data (later Ph3 fail 2021) | — |
+| 2020 | VUL.AX | ASX | ~16x | small | Y | Vulcan Energy — zero-carbon geothermal-lithium (Upper Rhine); ESG-lithium narrative, one of ASX's best 2020 small-caps | — |
+| 2020 | PDI.AX | ASX | ~10x | ~A$5M | Y | Predictive Discovery — Bankan gold discovery (Guinea); nano A$5M->~A$60M | — |
+| 2020 | TRIL | Nasdaq | ~7-9x | ~$150M | Y | Trillium Therapeutics — CD47 immuno-oncology; Sept Pfizer $25M investment + trial data, ~$150M->$1.4B | — |
+| 2020 | NLS | NYSE | ~10x (close) | ~$60M | Y | Nautilus (Bowflex) — home-fitness demand shock; ~$1.80->~$18 close-to-close | — |
+| 2020 | FUV | Nasdaq | ~8x (+721%) | ~$45M | Y | Arcimoto — 3-wheel EV micro swept into EV mania; confirmed +721% full-year | — |
+| 2020 | INSE | Nasdaq | ~8-9x | ~$60M | Y | Inspired Entertainment — gaming-tech crashed on casino closures then rebounded into iGaming/sports-betting | — |
+| 2020 | BEEM | Nasdaq | ~6-7x | ~$25M | Y | Beam Global (ex-Envision Solar) — solar EV-charging (ARC) micro swept into EV-charging theme | — |
+| 2020 | CETX | Nasdaq | ~9x | ~$15M | Y | Cemtrex — UV-disinfection (Vicon) COVID-theme penny runup, round-trip | — |
+| 2020 | HYSR | OTC | ~5-6x | <$20M | Y | SunHydrogen (ex-HyperSolar) — ultra-micro hydrogen penny on fuel-cell theme | — |
+| 2020 | ABR.V | TSXV | ~9-10x | ~C$7M | Y | Arbor Metals — Rakounga (Burkina Faso) gold drill news; among biggest TSXV gold gains of 2020 | — |
+| 2020 | SUP.V | TSXV | ~8x | ~C$20M | Y | Northern Superior Resources — Quebec gold explorer; ~+700% YTD | — |
+| 2020 | BZ.V | TSXV | ~7.6x | micro | Y | Benz Mining — Glenburgh (WA) gold explorer; ~+662% YTD | — |
+| 2020 | AMX.V | TSXV | ~7-8x | small | Y | Amex Exploration — Perron (Quebec) high-grade gold discovery zones; Top-50 TSXV 2020 | — |
+| 2020 | OPRX | Nasdaq | ~3.5-4x | ~$230M | Y | OptimizeRx — point-of-care pharma-messaging health-tech; quiet fundamental compounder | — |
+| 2020 | GNSS | Nasdaq | ~4-5x | ~$40M | Y | Genasys — mass-notification/public-warning systems; COVID alert demand + contracts | — |
+| 2020 | APDN | Nasdaq | ~3-5x | <$40M | Y | Applied DNA Sciences — anti-counterfeiting nano pivoted to COVID molecular testing | — |
+| 2020 | AUVI | Nasdaq | ~3x | ~$20M | Y | Applied UV — UV-disinfection micro IPO'd Nov, tripled within weeks | — |
+| 2020 | PURE | Nasdaq | ~5x | <$20M | Y | PURE Bioscience — silver-dihydrogen-citrate disinfectant micro, COVID-sanitizer theme | — |
+| 2020 | PLL | Nasdaq | ~3-4x | ~$75M | Y | Piedmont Lithium — lithium explorer; Sept Tesla spodumene offtake speculation | — |
+| 2020 | BLDP | Nasdaq | ~4-5x | ~$900M | N | Ballard Power — hydrogen fuel-cell swept up in PLUG-led mania | — |
+| 2020 | IDEX | Nasdaq | ~3-5x (RT) | ~$100M | Y | Ideanomics — EV/fintech micro; Feb spike, Hindenburg-style June fraud claims, Dec re-run | — |
+| 2020 | AZT.V | TSXV | ~4.9x | micro | Y | Aztec Minerals — Cervantes/Tombstone gold-silver-copper; ~+392% YTD | — |
+| 2020 | SZL.AX | ASX | ~4.7x | small-mid | Y | Sezzle — US-focused BNPL; COVID e-commerce merchant/user growth | — |
+| 2020 | SPT.AX | ASX | ~4x | small | Y | Splitit — BNPL via existing credit cards; sector mania | — |
+| 2020 | Z1P.AX | ASX | ~3.4x | mid | N | Zip Co — BNPL; QuadPay US-expansion during e-commerce surge | — |
+| 2020 | 3228.TWO | TPEx | ~4-5x | small | Y | Global Mixed-mode Tech (Kinglee) — PMIC/backlight-driver IC designer; 2020 chip-shortage demand | — |
+| 2020 | BOMBAYRAYON.NS | NSE/BSE | ~3.2x | micro | Y | Bombay Rayon Fashions — distressed textile; PPE-fabric demand + smallcap re-rate (INR4.20->13.44) | — |
+| 2020 | BODALCHEM.NS | NSE/BSE | ~3-4x | ~Rs350cr | Y | Bodal Chemicals — dye-intermediate China+1 beneficiary as Chinese supply disrupted | — |
+| 2020 | KIRIINDUS.NS | NSE/BSE | ~3x+ | ~Rs400cr | Y | Kiri Industries — dye maker; DyStar arbitration progress + specialty-chem tailwind | — |
+| 2020 | SIEB | Nasdaq | ~3x | <$30M | Y | Siebert Williams Shank — discount broker; retail-trading boom + Aug Kennedy Cabot merger | — |
+| 2020 | ZOM | NYSE American | ~2-3x (cal-2020) | <$50M | Y | Zomedica — animal-health nano; late-2020 retail wave (larger spike was Feb-2021) | — |
+| 2020 | APT | NYSE American | ~2x close (peak 6-8x) | ~$40M | Y | Alpha Pro Tech — N95/PPE maker; Feb mask-shortage spike, round-trip | — |
+| 2020 | LAKE | Nasdaq | ~2x | ~$100M | N | Lakeland Industries — PPE protective clothing; COVID demand surge | — |
+| 2020 | LODE | NYSE American | ~2-2.5x | ~$40M | Y | Comstock Mining — Nevada gold micro rode 2020 gold rally off crash low | — |
+| 2020 | AYRO | Nasdaq | ~2-3x | ~$90M | Y | AYRO — last-mile EV micro (DropCar reverse merger) | — |
+| 2020 | DM | NYSE | ~2.7x | ~$2.5B | N | Desktop Metal — 3D-printing de-SPAC (Trine); Dec merger pop | — |
+| 2020 | VLDR | Nasdaq | ~2.7x | ~$1.8B | N | Velodyne Lidar — AV-lidar de-SPAC; Sept peak then faded | — |
+| 2020 | ONEM | Nasdaq | ~2-2.5x | ~$1.6B | N | One Medical — primary-care/telehealth; Jan IPO, COVID digital-health pull-forward | — |
+| 2020 | LTR.AX | ASX | ~3x | mid-small | N | Liontown Resources — Kathleen Valley (WA) lithium resource upgrades | — |
+| 2020 | GDR.L | AIM | ~2x (intra ~30x RT) | small | Y | Genedrive — POC COVID saliva test; violent May spike then faded | — |
+| 2020 | 253840.KQ | KOSDAQ | ~2-3x | micro | Y | Sugentech — COVID rapid-diagnostic kits export boom (distinct from Seegene/Humasis/Osang) | — |
+| 2020 | 084650.KQ | KOSDAQ | ~2-3x | small | Y | LabGenomics — molecular/PCR-testing lab services; domestic+export COVID demand | — |
+| 2020 | 039860.KQ | KOSDAQ | ~2-3x | small | Y | NanoEnTek — biosensor/point-of-care diagnostics; 2020 KOSDAQ dx rally | — |
+| 2020 | 214610.KQ | KOSDAQ | ~2-3x | micro | Y | Mico Biomed — molecular-dx devices/kits; COVID-testing theme | — |
+| 2020 | 3604.T | TSE | ~2-3x close (peak ~9x) | micro | Y | Kawamoto Sangyo — medical-hygiene (mask/gown) distributor; spring mask-panic spike | — |
+| 2020 | 3822.T | TSE | ~2-3x (peak ~6x) | micro | Y | Chukyo Iyakuhin — pharma/hygiene distributor; COVID supply-panic wave | — |
+| 2020 | CIGNITITEC.NS | NSE/BSE | ~2.5-3x | ~Rs600cr | Y | Cigniti Technologies — QA/software-testing outsourcer; WFH digital-transformation demand | — |
+| 2020 | INTELLECT.NS | NSE/BSE | ~2.5x | ~Rs1800cr | N | Intellect Design Arena — core-banking/fintech software order-win momentum | — |
+| 2020 | NOCIL.NS | NSE/BSE | ~2x | ~Rs1200cr | N | NOCIL — rubber-chemicals import-substitution; anti-dumping + China+1 | — |
+| 2020 | PRIVISCL.NS | NSE | ~2x | ~Rs1100cr | N | Privi Speciality Chemicals — aroma-chemicals China+1 + capacity expansion | — |
+| 2020 | MEGHMANI.NS | NSE/BSE | ~2x | ~Rs1000cr | N | Meghmani Organics — pigments/pesticide-intermediate China+1 order book | — |
+| 2020 | PAUSHAKLTD.BO | BSE | ~2x+ | nano | Y | Paushak — Alembic-group phosgene fine-chemicals nano, thin float | — |
+| 2020 | MAGADSUGAR.BO | BSE | ~3x | nano | Y | Magadh Sugar & Energy — micro-float sugar/ethanol; Dec ethanol-incentive rally | — |
