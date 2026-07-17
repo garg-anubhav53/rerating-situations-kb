@@ -276,7 +276,7 @@ Newest years at the top (cursor walks backward from 2025).
 | 2021 | CGPOWER.NS | NSE | ~7–9x | ~$400M | Y | CG Power; fraud-recovery turnaround (Tube Inv/Murugappa) | — |
 | 2021 | POONAWALLA.NS | NSE | ~5x | ~$270M | Y | Poonawalla Fincorp; NBFC re-rate on Poonawalla capital infusion | — |
 | 2021 | BALAMINES.NS | NSE | ~5.6x | ~$200M | Y | Balaji Amines; specialty amines, China+1 supply-chain shift | — |
-| 2021 | RTNPOWER.NS | NSE | ~5–10x (unconf.) | <$150M | Y | RattanIndia Power; penny power-gen, retail-speculative frenzy | — |
+| 2021 | RTNPOWER.NS | NSE | ~2.8x c2c (~4.2x tr→pk) | ~$160–190M | Y | RattanIndia Power; penny IPP, debt-resolution hope + RTNINDIA name-halo (re-tiered from 5–10x; that tag was RTNINDIA) | — |
 | 2021 | CYCA | OTC | ~6.6x (unconf.) | nano/OTC | Y | Cytta Corp; obscure OTC tech shell, low-float runner | — |
 | 2021 | GWSO | OTC | ~5.4x (unconf.) | nano/OTC | Y | GreenWave; OTC shell/de-SPAC vehicle runner | — |
 | 2021 | RIOT | Nasdaq | ~4–5x (two legs) | ~$400M | N | Riot Blockchain; BTC-miner beta, doubled twice in-year | — |
