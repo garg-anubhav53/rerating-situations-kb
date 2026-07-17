@@ -489,3 +489,38 @@ Newest years at the top (cursor walks backward from 2025).
 | 2020 | MEGHMANI.NS | NSE/BSE | ~2x | ~Rs1000cr | N | Meghmani Organics — pigments/pesticide-intermediate China+1 order book | — |
 | 2020 | PAUSHAKLTD.BO | BSE | ~2x+ | nano | Y | Paushak — Alembic-group phosgene fine-chemicals nano, thin float | — |
 | 2020 | MAGADSUGAR.BO | BSE | ~3x | nano | Y | Magadh Sugar & Energy — micro-float sugar/ethanol; Dec ethanol-incentive rally | — |
+| 2019 | AXSM | NASDAQ | ~10-35x | ~$100M | Y | Axsome — AXS-05 depression + pipeline Phase 2/3 data re-rated a left-for-dead CNS micro | — |
+| 2019 | SOBR | OTC | ~30x | <$20M | Y | SOBR Safe — illiquid OTC alcohol-detection nano; pure low-float pump | — |
+| 2019 | SSI | NYSE | ~11x | ~$25M | Y | Stage Stores — dead-retailer penny-stock squeeze/reversal (bankrupt 2020) | — |
+| 2019 | CSTL/CNST | NASDAQ | ~10x | ~$150M | Y | Constellation Pharma — CPI-0610 BET-inhibitor myelofibrosis Phase 2 data + placement | — |
+| 2019 | KOD | NASDAQ | ~10x | ~$200M | Y | Kodiak Sciences — KSI-301 wet-AMD/diabetic-eye trial readouts | — |
+| 2019 | ENPH | NASDAQ | ~5.5x | ~$0.9B | Y | Enphase — micro-inverter gross-margin turn + IQ7/IQ8 ramp; best US large-name of 2019 | — |
+| 2019 | OESX | NYSE American | ~5-6x | <$50M | Y | Orion Energy — LED/commercial-lighting nano turnaround, essentially no press | — |
+| 2019 | ROKU | NASDAQ | ~4.4x | ~$3B | N | Roku — streaming-platform ad-revenue (Platform segment) inflection | — |
+| 2019 | SE | NYSE | ~4x | ~$4B | Y | Sea Ltd — Free Fire cash-cow funding Shopee e-commerce hypergrowth in SE Asia | — |
+| 2019 | ARWR | NASDAQ | ~4x | ~$1.3B | Y | Arrowhead — RNAi platform de-risked by J&J/Janssen + Amgen licensing deals | — |
+| 2019 | BYND | NASDAQ | ~3x close (9x peak) | ~$1.5B IPO | Y | Beyond Meat — plant-based IPO mania to $234, round-tripped to ~$77 by Dec | — |
+| 2019 | KRTX | NASDAQ | ~3.5x (from IPO) | ~$400M IPO | Y | Karuna — KarXT schizophrenia Phase 2 (Sept 2019); IPO'd June | — |
+| 2019 | IRCTC | NSE | ~3-4x (from IPO) | ~$700M IPO | Y | IRCTC — rail-ticketing/catering monopoly IPO frenzy (Oct 2019) | — |
+| 2019 | ADANIGREEN | NSE | ~4x | ~$1B | Y | Adani Green Energy — renewable arm, thin float, group-wide reflexive re-rate | — |
+| 2019 | 2331.HK | HKEX | ~3x | ~$3B | Y | Li Ning — "China Li-Ning" streetwear rebrand turnaround re-rating | — |
+| 2019 | 3697.T | TSE | ~3x (unconf.) | small-cap | Y | SHIFT Inc — Japanese software-QA/testing growth multibagger | — |
+| 2019 | SNAP | NYSE | ~3x | ~$7B | Y | Snap — DR ad-platform rebuild + Android fix + AR; turnaround off IPO-flop base | — |
+| 2019 | AMD | NASDAQ | ~2.5x | ~$18B | N | AMD — Ryzen/EPYC share gains vs Intel; best S&P 500 stock of 2019 | — |
+| 2019 | TTD | NASDAQ | ~2.3x | ~$5B | N | The Trade Desk — programmatic DSP + Connected-TV ad growth | — |
+| 2019 | LRCX | NASDAQ | ~2.2x | ~$26B | N | Lam Research — wafer-fab-equipment upcycle (memory/China capex recovery) | — |
+| 2019 | PAYC | NYSE | ~2.2x | ~$7B | N | Paycom — payroll SaaS Rule-of-40 compounding | — |
+| 2019 | SHOP | NYSE/TSX | ~2.1x | ~$19B | N | Shopify — e-commerce platform GMV/subscription compounding | — |
+| 2019 | KL | NYSE/TSX | ~2-3x | ~$3.7B | Y | Kirkland Lake Gold — Fosterville/Macassa high-grade beats + 2019 gold breakout | — |
+| 2019 | GNRC | NYSE | ~2x | ~$3B | Y | Generac — home standby generators; grid-resilience + California PSPS blackouts | — |
+| 2019 | SEDG | NASDAQ | ~2x | ~$1.7B | N | SolarEdge — became world #1 inverter supplier; record revenue/cash flow | — |
+| 2019 | ATGL | NSE | ~2-2.5x | ~$1.5B | Y | Adani Total Gas — low-float city-gas-distribution re-rate | — |
+| 2019 | ADANITRANS | NSE | ~2x | ~$2.5B | Y | Adani Transmission — Adani-group thin-float reflexive re-rate | — |
+| 2019 | AFFLE | NSE | ~2x (from IPO) | ~$400M | Y | Affle India — mobile ad-tech/martech IPO post-listing rally | — |
+| 2019 | 000858.SZ | SZSE | ~2.5-3x | ~$45B | N | Wuliangye — baijiu premiumization boom + earnings beats | — |
+| 2019 | SRT3.DE | XETRA | ~2x | ~€9B | N | Sartorius — bioprocessing-equipment capex boom | — |
+| 2019 | GMAB | Copenhagen | ~2x | ~$10B | N | Genmab — DARZALEX royalty growth + pipeline | — |
+| 2019 | AIXA.DE | XETRA | ~2x | ~€1B | Y | Aixtron — semiconductor-equipment (MOCVD) capex-cycle recovery | — |
+| 2019 | BESI | Euronext AMS | ~2x | ~€2.5B | N | BE Semiconductor (Besi) — semi-assembly-equipment capex recovery | — |
+| 2019 | CDLX | NASDAQ | ~3-4x | ~$300M | Y | Cardlytics — bank purchase-data ad platform; revenue accel + bank partners | — |
+| 2019 | 688019.SS | SSE STAR | ~2-5x | small IPO | Y | Anji Microelectronics — STAR Market launch-cohort debut doubling (CMP slurry) | — |
