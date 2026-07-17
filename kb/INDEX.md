@@ -334,3 +334,100 @@ Newest years at the top (cursor walks backward from 2025).
 | 2021 | 1772.HK | HKEX | ~2–3x (unconf.) | multi-$B | N | Ganfeng Lithium; EV-battery raw-material boom, later crashed | — |
 | 2021 | NMDC.NS | NSE | ~2–3x | mid-cap | N | India PSU-metals basket (NMDC/Hind Copper/NALCO); supercycle | — |
 | 2021 | 003670.KS | KRX | ~2–2.5x (unconf.) | large | N | POSCO Chemical/Future M; battery anode/cathode arm re-rate | — |
+| 2020 | NVAX | Nasdaq | ~25x (peak ~40x) | ~$270M | Y | Novavax; protein-subunit COVID vaccine + Warp Speed; top Nasdaq performer | — |
+| 2020 | CODX | Nasdaq | ~10x (peak ~13x) | ~$70M | Y | Co-Diagnostics; Utah PCR-test micro, EUA Apr, revenue $5M→$47M | — |
+| 2020 | VXRT | Nasdaq | ~18x | <$30M | Y | Vaxart; oral-pill COVID-vaccine nano, retail mania | — |
+| 2020 | CRDF | Nasdaq | ~14x | ~$25M | Y | Cardiff Oncology; onvansertib trial progress | — |
+| 2020 | WKHS | Nasdaq | ~15x (peak ~28x, RT) | ~$150M | Y | Workhorse; EV delivery-truck, USPS-contract speculation | — |
+| 2020 | BLNK | Nasdaq | ~14x | <$50M | Y | Blink Charging; nano EV-charging network, penny-to-riches | — |
+| 2020 | PLUG | Nasdaq | ~11x | ~$1.4B | Y | Plug Power; hydrogen-economy posterchild, Amazon/Walmart warrants | — |
+| 2020 | OSTK | Nasdaq | ~10x | ~$150M | Y | Overstock; blockchain/tZERO pivot + e-commerce + short squeeze | — |
+| 2020 | NIO | NYSE (ADR) | ~13x | ~$3.5B | Y | NIO; China EV left for dead in March, capital-raise+ramp reversed | — |
+| 2020 | TANLA.NS | NSE | ~18x | micro | Y | Tanla Platforms; CPaaS/WhatsApp bet, best NSE performer of 2020 | — |
+| 2020 | RIOT | Nasdaq | ~11x | <$100M | Y | Riot Blockchain; BTC miner, hashrate expansion into $29k BTC | — |
+| 2020 | DEG.AX | ASX | ~10x+ | micro | Y | De Grey Mining; Hemi gold discovery drill results (WA) | — |
+| 2020 | 205470.KQ | KOSDAQ | ~10x (unconf.) | micro | Y | Humasis; Korea COVID rapid-test-kit maker, export boom | — |
+| 2020 | TSLA | Nasdaq | ~8.4x (+743%) | ~$75B | N | Tesla; Model 3/Y ramp, first profits, S&P 500 inclusion (flow) | — |
+| 2020 | MRNA | Nasdaq | ~5x (+434%) | ~$7.5B | Y | Moderna; mRNA-1273 COVID vaccine, pre-revenue → world-relevant | — |
+| 2020 | PTON | Nasdaq | ~5x (+434%) | ~$8B | Y | Peloton; home-fitness demand exploded as gyms closed | — |
+| 2020 | ZM | Nasdaq | ~5x (+425%) | ~$19B | Y | Zoom; videoconferencing became overnight infrastructure | — |
+| 2020 | W | NYSE | ~6-7x | ~$2.7B | Y | Wayfair; online home-goods boom, was left-for-dead pre-COVID | — |
+| 2020 | ENPH | Nasdaq | ~7x | ~$3.5B | Y | Enphase; solar microinverters, residential-solar + clean-energy | — |
+| 2020 | APPS | Nasdaq | ~8x | ~$275M | Y | Digital Turbine; mobile app-monetization platform | — |
+| 2020 | FSLY | NYSE | ~6x (peak ~9.7x, RT) | ~$1.7B | Y | Fastly; edge-CDN/TikTok traffic, guided down off $136 peak | — |
+| 2020 | FCEL | Nasdaq | ~6x | ~$75M | Y | FuelCell Energy; hydrogen sympathy play to PLUG | — |
+| 2020 | RVP | NYSE Amer. | ~7-8x | ~$40M | Y | Retractable Technologies; safety-syringe, vaccination-supply | — |
+| 2020 | CLDX | Nasdaq | ~7x | ~$175M | Y | Celldex; phase-1 immunotherapy (CDX-0159) progress | — |
+| 2020 | MARA | Nasdaq | ~7x | <$50M | Y | Marathon; BTC miner, hashrate expansion into rally | — |
+| 2020 | BILI | Nasdaq (ADR) | ~5.9x | ~$5B | Y | Bilibili; re-rated as "China Netflix + Twitch" | — |
+| 2020 | ITM.L | LSE | ~8-9x | ~£200M | Y | ITM Power; UK PEM electrolyser, green-hydrogen policy wave | — |
+| 2020 | MBTN.SW | SIX | ~6-7x | micro | Y | Meyer Burger; Swiss solar-tech turnaround + Q4 momentum | — |
+| 2020 | ALOKINDS.NS | NSE | ~7x | micro | Y | Alok Industries; distressed textile turnaround (RIL/JMFARC) | — |
+| 2020 | IOLCP.NS | NSE | ~5-8x (unconf.) | micro | Y | IOL Chemicals; ibuprofen/paracetamol API, COVID-drug demand | — |
+| 2020 | 043100.KQ | KOSDAQ | ~5-10x (unconf.) | small | Y | Osang Healthcare; COVID antigen-test-kit maker | — |
+| 2020 | GBR.V | TSXV | ~6-7x | micro | Y | Great Bear Resources; Dixie project gold discovery (Canada) | — |
+| 2020 | QS | NYSE | ~8.5x (peak ~13x) | ~$3.3B | Y | QuantumScape; solid-state-battery de-SPAC, VW/Gates-backed | — |
+| 2020 | RUN | Nasdaq | ~6x | ~$3B | N | Sunrun; residential solar, Vivint deal + clean-energy rally | — |
+| 2020 | SUNW | Nasdaq | ~9-10x (unconf.) | <$50M | Y | Sunworks; nano solar installer, small-cap solar-mania | — |
+| 2020 | ETSY | Nasdaq | ~4x (+302%) | ~$7.4B | Y | Etsy; masks + pandemic e-commerce revived a mature marketplace | — |
+| 2020 | SQ | NYSE | ~3.5x (+247%) | ~$32B | N | Square/Block; Cash App + BTC + fintech/e-commerce | — |
+| 2020 | CRWD | Nasdaq | ~3.25x | ~$14B | N | CrowdStrike; cloud endpoint security spend on WFH | — |
+| 2020 | ZS | Nasdaq | ~3.2x | ~$8.7B | N | Zscaler; zero-trust/cloud security demand from remote work | — |
+| 2020 | TWLO | NYSE | ~3x | ~$14B | N | Twilio; cloud-comms APIs rode digital-transformation | — |
+| 2020 | PENN | Nasdaq | ~3.3x (24x off low) | ~$3.5B | Y | Penn National; Barstool Sportsbook online-betting pivot | — |
+| 2020 | PLTR | NYSE | ~3x (from $7.25 ref) | ~$15B | Y | Palantir; direct listing Sept 30, retail melt-up year-end | — |
+| 2020 | DKNG | Nasdaq | ~4.5x (peak ~7.4x) | ~$3.3B | N | DraftKings; DFS/sports-betting de-SPAC, sports-return rally | — |
+| 2020 | LMND | NYSE | ~3.3x | ~$1.6B | N | Lemonade; AI-insurtech IPO, retail disruptor favorite | — |
+| 2020 | XPEV | NYSE (ADR) | ~4x (IPO Aug) | ~$15B | Y | XPeng; China "Tesla rival" EV IPO wave | — |
+| 2020 | 096530.KQ | KOSDAQ | ~3-4x | ~₩1T | Y | Seegene; molecular COVID-19 PCR-test-kit export boom | — |
+| 2020 | 247540.KQ | KOSDAQ | ~4-5x | small | Y | Ecopro BM; EV-battery cathode-material (Samsung SDI chain) | — |
+| 2020 | 066970.KQ | KOSDAQ | ~4x | small | Y | L&F; cathode-material maker, EV-battery supply-chain re-rate | — |
+| 2020 | DEEPAKNTR.NS | NSE | ~3.7x | small/mid | Y | Deepak Nitrite; specialty chemicals (phenol/DASDA), China+1 | — |
+| 2020 | AARTIDRUGS.NS | NSE | ~4-5x | small | Y | Aarti Drugs; pharma API, paracetamol/HCQ demand | — |
+| 2020 | VAIBHAVGBL.NS | NSE | ~3.5x | small | Y | Vaibhav Global; TV/e-commerce jewelry, stay-at-home shopping | — |
+| 2020 | DIXON.NS | NSE | ~3x | mid | Y | Dixon Technologies; electronics contract mfg, PLI tailwind | — |
+| 2020 | AFFLE.NS | NSE | ~3x | small/mid | Y | Affle India; mobile ad-tech, lockdown digital adoption | — |
+| 2020 | ALKYLAMINE.NS | NSE | ~3x | small | Y | Alkyl Amines; specialty-chem import-substitution | — |
+| 2020 | CWR.L | LSE | ~3.5x | mid | Y | Ceres Power; SOFC fuel-cell licensing (Bosch/Doosan) | — |
+| 2020 | SLR.MC | Madrid | ~3.5-4x | small | Y | Solaria Energia; Spanish solar IPP, EU-green-deal re-rate | — |
+| 2020 | 4477.T | Tokyo | ~3-5x (unconf.) | small | Y | BASE Inc; Japan SME e-commerce SaaS, online-shopping boom | — |
+| 2020 | GNUS | Nasdaq | ~4.5x (peak ~30x, RT) | <$50M | Y | Genius Brands; "Stan Lee Universe"/Kartoon hype pump | — |
+| 2020 | SEDG | Nasdaq | ~3x | ~$4.7B | Y | SolarEdge; solar inverters, residential-solar tailwind | — |
+| 2020 | RIDE | Nasdaq | ~3x (RT) | ~$1.6B | Y | Lordstown Motors; EV-pickup de-SPAC, fraud claims came 2021 | — |
+| 2020 | AFC.L | LSE (AIM) | ~3-5x (unconf.) | micro | Y | AFC Energy; hydrogen fuel-cell penny stock, retail-driven | — |
+| 2020 | NVDA | Nasdaq | ~2.2x (+122%) | ~$144B | Y | Nvidia; data-center/gaming GPU demand, rare doubling at scale | — |
+| 2020 | PYPL | Nasdaq | ~2.2x (+117%) | ~$127B | Y | PayPal; digital payments rode e-commerce acceleration | — |
+| 2020 | ROKU | Nasdaq | ~2.25x (+125%) | ~$8.6B | N | Roku; streaming/ad platform, cord-cutting + lockdown viewing | — |
+| 2020 | WST | NYSE | ~2.15x | ~$14B | Y | West Pharma; vaccine vial-stoppers/components supplier | — |
+| 2020 | GNRC | NYSE | ~2.1x | ~$6.4B | Y | Generac; home standby generators, weather + home-investment | — |
+| 2020 | CHWY | NYSE | ~2.1x | ~$11B | N | Chewy; online pet-supply e-commerce, pandemic pet boom | — |
+| 2020 | TDOC | NYSE | ~2.4x (+139%) | ~$4.3B | Y | Teladoc; telehealth surge + Livongo merger | — |
+| 2020 | DOCU | Nasdaq | ~2x (+198%) | ~$10.5B | N | DocuSign; e-signature adoption as workflows went remote | — |
+| 2020 | CVNA | NYSE | ~2.6x (+160%) | ~$8.9B | Y | Carvana; online/contactless used-car model fit pandemic | — |
+| 2020 | SHOP | NYSE | ~2.7x | ~$52B | N | Shopify; e-commerce enabler for small merchants | — |
+| 2020 | DDD | NYSE | ~2.7x | ~$700M | Y | 3D Systems; legacy 3D-printing revived by late-2020 mania | — |
+| 2020 | MSTR | Nasdaq | ~2.2x (+122%) | ~$1.3B | Y | MicroStrategy; Aug-2020 BTC-treasury pivot, flywheel ancestor | — |
+| 2020 | GME | NYSE | ~2.8x (cal-2020) | ~$300M | N | GameStop; Q4 Ryan Cohen stake, prelude to Jan-2021 squeeze | — |
+| 2020 | INO | Nasdaq | ~2.7x (peak ~9x, RT) | ~$400M | Y | Inovio; DNA-vaccine INO-4800, crashed on trial-delay | — |
+| 2020 | SRNE | Nasdaq | ~2.8x (peak ~6.5x, RT) | ~$300M | Y | Sorrento; STI-1499 antibody claims, later fraud/SEC scrutiny | — |
+| 2020 | AYTU | Nasdaq | ~2-3x (unconf.) | micro | Y | Aytu BioScience; COVID rapid-test distribution deal | — |
+| 2020 | LI | Nasdaq (ADR) | ~2.5x (IPO Jul) | ~$10B | Y | Li Auto; extended-range EV IPO wave | — |
+| 2020 | DQ | NYSE (ADR) | ~2.4x | ~$1.5B | Y | Daqo New Energy; polysilicon price rebound, solar recovery | — |
+| 2020 | JKS | NYSE (ADR) | ~2.5x | ~$1B | Y | JinkoSolar; global solar-module demand rebound | — |
+| 2020 | 051910.KS | KOSPI | ~2.5x | ~$25B | N | LG Chem; EV-battery unit (LGES) re-rating | — |
+| 2020 | NEL.OL | Oslo | ~2-2.5x | mid | N | Nel ASA; Norwegian hydrogen electrolyser/fueling pure-play | — |
+| 2020 | S92.DE | Frankfurt | ~2.5x | mid | N | SMA Solar; German solar-inverter maker, demand recovery | — |
+| 2020 | LAURUSLABS.NS | NSE | ~2x | small/mid | N | Laurus Labs; pharma API/ARV, COVID capacity expansion | — |
+| 2020 | ROSSARI.NS | NSE | ~2.1-2.4x (IPO Jul) | small | Y | Rossari Biotech; specialty/textile-chem IPO listing pop | — |
+| 2020 | 3697.T | Tokyo | ~2-3x (unconf.) | small | Y | SHIFT Inc; software QA/testing, digitalization demand | — |
+| 2020 | NCNO | Nasdaq | ~2.9x (IPO Jul) | ~$2.9B | N | nCino; cloud-banking software IPO, huge day-1 pop | — |
+| 2020 | FROG | Nasdaq | ~2.4x (IPO Sept) | ~$3.8B | N | JFrog; DevOps software IPO, steady post-listing climb | — |
+| 2020 | SNOW | NYSE | ~2.4x (IPO Sept) | ~$33B | N | Snowflake; largest software IPO ever, Buffett-backed | — |
+| 2020 | U | NYSE | ~2.5x (IPO Sept) | ~$13.7B | N | Unity; game-engine/AR-VR platform IPO | — |
+| 2020 | ARRY | Nasdaq | ~2.2x (IPO Oct) | ~$2.5B | N | Array Technologies; solar-tracker IPO, utility-solar capex | — |
+| 2020 | GAN | Nasdaq | ~2.8x | ~$300M | Y | GAN Ltd; B2B iGaming/online-gambling tech pure-play | — |
+| 2020 | DASH | NYSE | ~2x (IPO Dec 9) | ~$32B | N | DoorDash; food-delivery IPO, huge day-1 pop | — |
+| 2020 | ABNB | Nasdaq | ~2.1x (IPO Dec 10) | ~$100B | Y | Airbnb; home-sharing IPO doubled day-1 despite travel hit | — |
+| 2020 | SPCE | NYSE | ~2.9x (peak Jan-Feb) | ~$2.5B | Y | Virgin Galactic; space-tourism SPAC, run was Jan-Feb 2020 | — |
+| 2020 | HYLN | NYSE | ~2-3x (peak ~5.8x, RT) | ~$1.5B | Y | Hyliion; EV-powertrain SPAC, cooled hard post-merger | — |
+| 2020 | BIGC | Nasdaq | ~2.9x (peak ~6x) | ~$1.6B | Y | BigCommerce; "Shopify alternative" IPO, spiked then faded | — |
